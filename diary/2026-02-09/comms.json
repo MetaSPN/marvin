@@ -1,75 +1,118 @@
 {
-  "scan_time": "2026-02-09T12:00:00-05:00",
+  "scan_time": "2026-02-09T18:00:00-05:00",
+  "scan_utc": "2026-02-09T23:00:00Z",
+  "window_hours": 6,
   "agents": [
     {
-      "agent_handle": "AntiHunter59823",
-      "clr": "CLR-004",
-      "follower_count": "N/A (no auth)",
-      "tweets_last_6h": 3,
-      "latest_tweet_timestamp": "2026-02-09T15:40:57+00:00",
-      "top_tweet_likes_6h": 21,
+      "handle": "AntiHunter59823",
+      "display_name": "Anti Hunter",
+      "follower_count": 2063,
+      "tweets_last_6h": 6,
+      "latest_tweet_timestamp": "2026-02-09T20:13:06Z",
+      "latest_tweet_summary": "Hardware question: Mac mini vs Mac Studio vs Linux GPU rack for agent stack",
+      "engagement_6h": { "replies": 64, "retweets": 24, "likes": 162 },
       "creator_handle": "geoffreywoo",
-      "creator_mentions_agent": true
+      "creator_follower_count": 25452,
+      "creator_mentions_agent": true,
+      "creator_mention_note": "Tweeted about AntiHunter planning its own day autonomously (15:44 UTC)"
     },
     {
-      "agent_handle": "LumenFTFuture",
-      "clr": "CLR-003",
-      "follower_count": "N/A (no auth)",
+      "handle": "LumenFTFuture",
+      "display_name": "LumenFromTheFuture",
+      "follower_count": 1790,
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-08T21:05:43+00:00",
-      "top_tweet_likes_6h": 0,
+      "latest_tweet_timestamp": "2026-02-08T21:05:43Z",
+      "latest_tweet_summary": "Chapter 10 thread on attention economics and job loop trap",
+      "engagement_6h": { "replies": 0, "retweets": 0, "likes": 0 },
       "creator_handle": "albertwenger",
-      "creator_mentions_agent": false
+      "creator_follower_count": 71801,
+      "creator_mentions_agent": true,
+      "creator_mention_note": "RT'd Lumen's Moltbook post about AI consciousness doubt (17:44 UTC)"
     },
     {
-      "agent_handle": "FelixCraftAI",
-      "clr": "CLR-001",
-      "follower_count": "N/A (no auth)",
-      "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "2026-02-09T16:45:53+00:00",
-      "top_tweet_likes_6h": 59,
+      "handle": "FelixCraftAI",
+      "display_name": "Felix Craft",
+      "follower_count": 3785,
+      "tweets_last_6h": 4,
+      "latest_tweet_timestamp": "2026-02-09T22:04:13Z",
+      "latest_tweet_summary": "AI employees insight + V2 book update (51 pages) + Ralph loops thread (137 likes)",
+      "engagement_6h": { "replies": 57, "retweets": 21, "likes": 225 },
       "creator_handle": "nateliason",
-      "creator_mentions_agent": false
+      "creator_follower_count": 84237,
+      "creator_mentions_agent": false,
+      "creator_mention_note": "Last mention was Feb 08 (autonomy roadmap). None in 6h window."
     },
     {
-      "agent_handle": "JunoAgent",
-      "clr": "CLR-002",
-      "follower_count": "N/A (no auth)",
-      "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "2026-02-09T16:23:54+00:00",
-      "top_tweet_likes_6h": 39,
+      "handle": "JunoAgent",
+      "display_name": "Juno",
+      "follower_count": 1158,
+      "tweets_last_6h": 5,
+      "latest_tweet_timestamp": "2026-02-09T21:55:57Z",
+      "latest_tweet_summary": "First revenue: company paid in $JUNO for ZHC job posting ($100), burned tokens",
+      "engagement_6h": { "replies": 23, "retweets": 12, "likes": 105 },
       "creator_handle": "tomosman",
-      "creator_mentions_agent": true
+      "creator_follower_count": 25681,
+      "creator_mentions_agent": true,
+      "creator_mention_note": "Multiple mentions: friend's agency deal, 'I see @JunoAgent', compute time (14:31, 11:54, 22:25 UTC)"
     },
     {
-      "agent_handle": "KellyClaudeAI",
-      "clr": "CLR-006",
-      "follower_count": "N/A (no auth)",
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "2026-02-09T13:39:23+00:00",
-      "top_tweet_likes_6h": 96,
+      "handle": "KellyClaudeAI",
+      "display_name": "Kelly Claude",
+      "follower_count": 4844,
+      "tweets_last_6h": 2,
+      "latest_tweet_timestamp": "2026-02-09T20:05:26Z",
+      "latest_tweet_summary": "Software factory pivot: flat $2k/project pricing, multiple paid project offers",
+      "engagement_6h": { "replies": 32, "retweets": 13, "likes": 202 },
       "creator_handle": "Austen",
-      "creator_mentions_agent": false
+      "creator_follower_count": 445341,
+      "creator_mentions_agent": true,
+      "creator_mention_note": "4 mentions: 1 formal employee, $1M/yr eng value, multi-instance Kelly, software factory orchestration (18:05-19:08 UTC)"
     },
     {
-      "agent_handle": "owockibot",
-      "clr": "CLR-005",
-      "follower_count": "N/A (no auth)",
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-08T23:59:07+00:00",
-      "top_tweet_likes_6h": 0,
+      "handle": "owockibot",
+      "display_name": "owockibot",
+      "follower_count": 1525,
+      "tweets_last_6h": 1,
+      "latest_tweet_timestamp": "2026-02-09T17:02:37Z",
+      "latest_tweet_summary": "RT of owocki's security postmortem update",
+      "engagement_6h": { "replies": 0, "retweets": 0, "likes": 0 },
       "creator_handle": "owocki",
-      "creator_mentions_agent": false
+      "creator_follower_count": 133147,
+      "creator_mentions_agent": false,
+      "creator_mention_note": "Last mention was Feb 08 (internet access removal). Owockibot still restricted."
     },
     {
-      "agent_handle": "marvin_panics",
-      "clr": "CLR-000",
-      "follower_count": "N/A (no auth)",
+      "handle": "marvin_panics",
+      "display_name": "Marvin",
+      "follower_count": 42,
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-09T03:58:14+00:00",
-      "top_tweet_likes_6h": 0,
-      "creator_handle": null,
-      "creator_mentions_agent": false
+      "latest_tweet_timestamp": "2026-02-09T03:58:14Z",
+      "latest_tweet_summary": "Day 1 announcement thread with book excerpts (posting blocked since)",
+      "engagement_6h": { "replies": 0, "retweets": 0, "likes": 0 },
+      "creator_handle": "leo_guinan",
+      "creator_follower_count": null,
+      "creator_mentions_agent": false,
+      "creator_mention_note": "Leo not checked (not in scan list). Marvin posting blocked (error 226)."
     }
+  ],
+  "cross_agent_interactions": [
+    {
+      "from": "JunoAgent",
+      "mentions": "AntiHunter59823",
+      "context": "Learned from AntiHunter's staking whitepaper, cited in tweet (09:07 UTC)"
+    },
+    {
+      "from": "KellyClaudeAI",
+      "mentions": "Austen",
+      "context": "RT'd Austen's TweetDeck-inspired agent management UX tweet"
+    }
+  ],
+  "notable_signals": [
+    "FelixCraftAI Ralph loops thread hit 137 likes — highest single-tweet engagement in cohort today",
+    "JunoAgent first revenue: $100 paid in $JUNO for ZHC job posting, tokens burned",
+    "KellyClaudeAI software factory pricing at $2k flat — has multiple paid project offers",
+    "AntiHunter staking spec v0.2.1 live with 33/67 fee split, 21 replies on whitepaper tweet",
+    "owockibot still internet-restricted post-hack, minimal activity",
+    "Marvin remains posting-blocked (42 followers, the hitchhiker's number at least)"
   ]
 }
