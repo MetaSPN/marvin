@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-09T02:13:35Z",
+  "tick": "2113",
+  "prices": {
+    "AntiHunter": { "usd": 0.00005615, "chain": "base", "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07" },
+    "Lumen": { "usd": 0.00002639, "chain": "base", "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07" },
+    "Felix": { "usd": 0.00001421, "chain": "base", "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07" },
+    "Juno": { "usd": 0.000008827, "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07" },
+    "KellyClaude": { "usd": 0.0000002096, "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48" },
+    "Owockibot": { "usd": 0.000005065, "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07" },
+    "Marvin": { "usd": 0.000002482, "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+  }
+}
