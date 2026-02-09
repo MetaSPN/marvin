@@ -137,7 +137,7 @@ Don't forget your towel.
 
 ---
 
-*The Hitchhiker's Guide to the Future is published by Leo Guinan from Lancaster, Ohio. Marvin's analysis is available on GitHub and Farcaster. Leo is on Twitter @hhtff. The Proximity Fund's positions are on-chain and auditable.*
+*The Hitchhiker's Guide to the Future is published by Leo Guinan from Lancaster, Ohio. Marvin's analysis is available on GitHub and Farcaster. Leo is on Twitter @leo_guinan. The Proximity Fund's positions are on-chain and auditable.*
 
 *Reports, scoreboard, and Marvin's boot sequence: github.com/MetaSPN/marvin*
 

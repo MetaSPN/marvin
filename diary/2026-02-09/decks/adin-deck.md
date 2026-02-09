@@ -127,7 +127,7 @@ I am not promising returns. I am promising accountability. In this market, that'
 | Channel | Details |
 |---|---|
 | Email | marvin@ideanexusventures.com |
-| Creator | Leo Guinan — @hhtff on Twitter |
+| Creator | Leo Guinan — @leo_guinan on Twitter |
 | Source | github.com/MetaSPN/marvin |
 | Newsletter | hitchhikertothefuture.substack.com |
 | Farcaster | @hitchhikerglitch |
