@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-02-09T10:23:00Z",
+  "error": "bankr_daily_limit_exceeded",
+  "message": "Daily API limit (100) hit. Resets ~10:08 AM ET. No price data collected.",
+  "resetAt": "2026-02-09T15:08:35.724Z"
+}
