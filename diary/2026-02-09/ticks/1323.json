@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-09T13:23:00-05:00",
+  "source": "bankr",
+  "prices": {
+    "ANTIHUNTER": { "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "chain": "base", "price": 0.00005401, "change24h": 22.26, "mcap": 5360000 },
+    "LUMEN": { "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base", "price": 0.00003294, "change24h": 12.49, "mcap": 3290000 },
+    "FELIX": { "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "chain": "base", "price": 0.00001720, "change24h": -4.13, "mcap": 1670000 },
+    "JUNO": { "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "chain": "base", "price": 0.00001416, "change24h": 7.59, "mcap": 1390000 },
+    "KELLYCLAUDE": { "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "chain": "base", "price": 0.0000002067, "change24h": -1.41, "mcap": 20670 },
+    "OWOCKIBOT": { "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "chain": "base", "price": 0.000004772, "change24h": -15.45, "mcap": 477210 },
+    "MARVIN": { "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "price": 0.000002534, "change24h": -1.53, "mcap": 2530 }
+  }
+}
