@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-02-09T03:13:00-05:00",
+  "status": "FAILED",
+  "reason": "Bankr API daily limit exceeded (100/100). Resets ~10:08 AM ET.",
+  "tokens": {}
+}
