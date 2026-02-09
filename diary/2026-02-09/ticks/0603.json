@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-02-09T06:03:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {
+      "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",
+      "chain": "base",
+      "priceUsd": "0.00004561",
+      "marketCap": 4549609,
+      "liquidity": 885097.48,
+      "volume24h": 3235510.68
+    },
+    "Lumen": {
+      "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+      "chain": "base",
+      "priceUsd": "0.00002289",
+      "marketCap": 2289922,
+      "liquidity": 706177.10,
+      "volume24h": 2841191.27
+    },
+    "Felix": {
+      "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07",
+      "chain": "base",
+      "priceUsd": "0.00001529",
+      "marketCap": 1487755,
+      "liquidity": 524553.37,
+      "volume24h": 812087.36
+    },
+    "Juno": {
+      "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+      "chain": "base",
+      "priceUsd": "0.00001138",
+      "marketCap": 1138329,
+      "liquidity": 365036.23,
+      "volume24h": 1342124.91
+    },
+    "owockibot": {
+      "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+      "chain": "base",
+      "priceUsd": "0.000003911",
+      "marketCap": 391132,
+      "liquidity": 233830.04,
+      "volume24h": 564229.73
+    },
+    "KellyClaude": {
+      "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+      "chain": "base",
+      "priceUsd": "0.0000002046",
+      "marketCap": 20467,
+      "liquidity": 20466.78,
+      "volume24h": 3.71
+    },
+    "Marvin": {
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": "0.000002441",
+      "marketCap": 2441.89,
+      "liquidity": null,
+      "volume24h": 848.61
+    }
+  }
+}
