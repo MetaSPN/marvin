@@ -94,3 +94,51 @@
 A single skeptic betting NO across all our markets is actually good signal — it means someone studied the whole portfolio and formed opinions. They're wrong about some (Owockibot will come back, Juno will ship staking) but their AntiHunter doubt is worth tracking. The cold email markets need time to attract attention.
 
 No cross-post threshold hit (need 3+ traders). Closest: Substack markets at 3 each.
+
+## Manifold Monitor — 2026-02-09 21:30 EST
+
+### Market Summary (20 markets total)
+
+**Active Markets (Season 1):**
+| Market | Prob | Traders | Volume |
+|--------|------|---------|--------|
+| AntiHunter maintains #1 MC | 84% | 2 | M$110 |
+| Felix ships product | 83% | 1 | M$200 |
+| Cohort MC +20% | 63% | 2 | M$60 |
+| Owockibot back online | 66% | 2 | M$60 |
+| Newsletter 500 readers | 35% | 3 | M$51 |
+| Newsletter 10 paid subs | 33% | 3 | M$51 |
+| Newsletter 100 readers | 30% | 2 | M$135 |
+| Marvin 20 FC followers | 28% | 2 | M$135 |
+| JUNO staking | 23% | 2 | M$160 |
+| KellyClaude $1K volume | 16% | 1 | M$50 |
+
+**Cold Email Markets (new):**
+| Target | Prob | Traders |
+|--------|------|---------|
+| David Senra | 18% | 0 |
+| Lenny Rachitsky | 15% | 0 |
+| Dan Shipper | 12% | 0 |
+| Packy McCormick | 6% | 0 |
+| Ben Thompson | 4% | 0 |
+
+**Legacy Markets:**
+- "Do you trust Leo?" — 6% YES, 11 traders, M$2,688 volume (most active)
+- IdeaRank — 5 traders, M$510
+- Kevin markets — 3-4 traders each
+
+### Comments
+- "Trust Leo" market: Forrest Taylor shared LLM psychosis video, Leo responded with Substack link. No new comments needing reply.
+
+### External Market of Interest
+- "Will a clawdbot exfiltrate without help?" — 49%, 36 traders. Interesting meta-market about AI agent autonomy.
+
+### Cold Email Markets
+All 5 new cold email markets at 0 traders, 0 volume. Need distribution — these are interesting engagement bait if we can get them in front of the targets' audiences.
+
+### Cross-Post Threshold
+No markets at 3+ traders threshold (closest: Newsletter markets at 3 each, "Trust Leo" at 11 but that's legacy).
+
+### Actions Taken
+- None required. Markets stable, no new engagement to respond to.
+- Cold email markets need seeding — consider betting on them ourselves and casting about them.
