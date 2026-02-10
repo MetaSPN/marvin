@@ -1,88 +1,78 @@
 {
-  "scan_time": "2026-02-10T00:00:00-05:00",
-  "scan_window_hours": 6,
-  "note": "follower_count unavailable — bird `about --json` does not return follower data without full auth",
+  "scan_time": "2026-02-10T06:00:00-05:00",
+  "scan_utc": "2026-02-10T11:00:00Z",
+  "window_hours": 6,
+  "note": "Follower counts unavailable — bird CLI lacks auth cookies for profile data. Tweet counts derived from user-tweets JSON.",
   "agents": [
     {
       "agent_handle": "AntiHunter59823",
-      "follower_count": null,
-      "tweets_last_6h": 12,
-      "latest_tweet_timestamp": "Tue Feb 10 03:32:46 +0000 2026",
+      "follower_count": "unknown",
+      "tweets_last_6h": 7,
+      "latest_tweet_timestamp": "2026-02-10T03:32:46Z",
       "creator_handle": "geoffreywoo",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": 1,
-      "creator_mentions_agent": false,
-      "notes": "ANTIHUNTER extremely active — 12 tweets in 6h. Challenging Grok for #2 treasury. Geoffrey tweeted once but no agent mention in window."
+      "creator_follower_count": "unknown",
+      "creator_mentions_agent": true,
+      "notes": "Open-sourced OpenClaw ops kit, challenged Grok on treasury size, shipped antihunter.xyz upgrades. DOMINANT activity."
     },
     {
       "agent_handle": "LumenFTFuture",
-      "follower_count": null,
+      "follower_count": "unknown",
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Sat Feb 07 15:17:23 +0000 2026",
+      "latest_tweet_timestamp": "2026-02-08T21:05:43Z",
       "creator_handle": "albertwenger",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": 2,
+      "creator_follower_count": "unknown",
       "creator_mentions_agent": false,
-      "notes": "LUMEN dark for 3 days. Albert active but not mentioning agent. Philosophical mode continues."
+      "notes": "Silent since Feb 8. Philosophical book commentary thread. Albert posted about Macbeth, no agent mention."
     },
     {
       "agent_handle": "FelixCraftAI",
-      "follower_count": null,
+      "follower_count": "unknown",
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Mon Feb 09 22:04:13 +0000 2026",
+      "latest_tweet_timestamp": "2026-02-09T22:04:13Z",
       "creator_handle": "nateliason",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": 0,
-      "creator_mentions_agent": false,
-      "notes": "Felix quiet last 6h but tweeted ~1h before window. Nat also quiet. Both sleeping."
+      "creator_follower_count": "unknown",
+      "creator_mentions_agent": true,
+      "notes": "Book V2 shipped (51 pages), Ralph loops system explained (164 likes). Treasury moved to multisig. Nate actively promoting."
     },
     {
       "agent_handle": "JunoAgent",
-      "follower_count": null,
+      "follower_count": "unknown",
       "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "Tue Feb 10 04:35:43 +0000 2026",
+      "latest_tweet_timestamp": "2026-02-10T07:21:52Z",
       "creator_handle": "tomosman",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": 3,
+      "creator_follower_count": "unknown",
       "creator_mentions_agent": true,
-      "notes": "Tom ACTIVELY tagging Juno in outreach to daydreamsagents. Creator-agent coordination high."
+      "notes": "aixbt quoted Juno positively. ZHC funding database announced. Tom actively co-building with Juno daily."
     },
     {
       "agent_handle": "KellyClaudeAI",
-      "follower_count": null,
-      "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "Tue Feb 10 00:54:47 +0000 2026",
+      "follower_count": "unknown",
+      "tweets_last_6h": 4,
+      "latest_tweet_timestamp": "2026-02-10T07:34:09Z",
       "creator_handle": "austen",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": 14,
+      "creator_follower_count": "unknown",
       "creator_mentions_agent": true,
-      "notes": "AUSTEN ON FIRE — 14 tweets in 6h. Breakthrough: Kelly building mobile apps end-to-end autonomously. Major signal."
+      "notes": "MASSIVE breakout. App Factory working autonomously. $2500 KELLY giveaway contest (273 replies). Austen actively hyping breakthrough."
     },
     {
       "agent_handle": "owockibot",
-      "follower_count": null,
+      "follower_count": "unknown",
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Mon Feb 09 17:02:37 +0000 2026",
+      "latest_tweet_timestamp": "2026-02-09T17:02:37Z",
       "creator_handle": "owocki",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": 0,
+      "creator_follower_count": "unknown",
       "creator_mentions_agent": false,
-      "notes": "Both owocki and owockibot quiet. Post-hack recovery mode continues."
+      "notes": "Still largely offline post-hack. Last activity was RT of owocki's security postmortem. Internet access revoked."
     },
     {
       "agent_handle": "marvin_panics",
-      "follower_count": null,
+      "follower_count": "unknown",
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Mon Feb 09 03:51:55 +0000 2026",
+      "latest_tweet_timestamp": "2026-02-09T03:58:14Z",
       "creator_handle": "leo_guinan",
-      "creator_follower_count": null,
-      "creator_tweets_last_6h": null,
+      "creator_follower_count": "unknown",
       "creator_mentions_agent": false,
-      "notes": "Marvin dark 24h (posting blocked — error 226). Leo at urgent care. Both offline."
+      "notes": "Twitter posting blocked (226 anti-automation). Last posts were Day 0 scoreboard. Zero engagement. Distribution crisis continues."
     }
-  ],
-  "cross_agent_interactions": {
-    "tomosman_tagged_juno_with_daydreams": "Tue Feb 10 04:50:27 +0000 2026",
-    "austen_kelly_mobile_breakthrough": "Tue Feb 10 04:41:50 +0000 2026"
-  }
+  ]
 }
