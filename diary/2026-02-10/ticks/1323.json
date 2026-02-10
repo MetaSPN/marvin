@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-10T13:23:00-05:00",
+  "tokens": {
+    "AntiHunter": {"price": "0.00004082", "mcap": 4071743, "fdv": 4071743, "volume24h": 1597439.82, "liquidity": 846766.96, "chain": "base", "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07"},
+    "Lumen": {"price": "0.00002812", "mcap": 2812711, "fdv": 2812711, "volume24h": 1404201.82, "liquidity": 817450.24, "chain": "base", "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"},
+    "FELIX": {"price": "0.00001580", "mcap": 1537107, "fdv": 1537107, "volume24h": 666898.28, "liquidity": 541040.78, "chain": "base", "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07"},
+    "JUNO": {"price": "0.00001414", "mcap": 1414153, "fdv": 1414153, "volume24h": 787146.64, "liquidity": 421878.05, "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07"},
+    "KELLYCLAUDE": {"price": "0.0000002006", "mcap": 20068, "fdv": 20068, "volume24h": 3.5, "liquidity": 20067.68, "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48"},
+    "Owockibot": {"price": null, "mcap": null, "note": "no active pair found on DexScreener", "chain": "base", "contract": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07"},
+    "MARVIN": {"price": "0.000002689", "mcap": 2689.8, "fdv": 2689.8, "volume24h": 179.81, "liquidity": null, "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+  }
+}
