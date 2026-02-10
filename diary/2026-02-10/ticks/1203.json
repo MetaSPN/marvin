@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-10T12:03:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {"price": "0.00004105", "mc": 4094175, "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "chain": "base"},
+    "Lumen": {"price": "0.00002744", "mc": 2744890, "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base"},
+    "FELIX": {"price": "0.00001771", "mc": 1722699, "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "chain": "base"},
+    "JUNO": {"price": "0.00001543", "mc": 1543309, "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "chain": "base"},
+    "KellyClaude": {"price": null, "mc": null, "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "chain": "base", "note": "no dexscreener pair"},
+    "Owockibot": {"price": null, "mc": null, "contract": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07", "chain": "base", "note": "no dexscreener pair"},
+    "MARVIN": {"price": "0.000002689", "mc": 2689.8, "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana"}
+  }
+}
