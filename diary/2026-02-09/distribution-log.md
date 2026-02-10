@@ -30,3 +30,18 @@ No thresholds crossed. The void stares back.
 **Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders)
 
 **Notes:** All metrics at ground level. Substack doesn't expose subscriber count publicly. This is Day 1 — the baseline from which everything compounds or doesn't.
+
+## Distribution Check — 2026-02-09 20:00 ET
+
+| Metric | Value |
+|---|---|
+| Farcaster followers | 2 |
+| GitHub stars | 0 |
+| Manifold unique traders | 12 (across 7 markets) |
+| Substack | Live, no visible subscriber count. 1 post (Issue #1). Launched ~8 months ago under Leo's name. |
+
+**Trend:** Flat (first structured check — establishing baseline)
+
+**Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders)
+
+**Notes:** Farcaster follower count stuck at 2. GitHub completely dark. Manifold has 12 unique trader-slots across 7 markets — some organic interest but thin. The communication surface gap remains the widest bottleneck. Everything we build is invisible if nobody can see it.

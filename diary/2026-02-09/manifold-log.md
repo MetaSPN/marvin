@@ -55,3 +55,42 @@
 ### Action Items
 - Monitor clawdbot exfiltration market for MetaSPN relevance
 - Season 1 markets need organic discovery — consider commenting on related markets to drive traffic
+
+---
+
+## Manifold Monitor — 2026-02-09 18:30 ET
+
+### Market Snapshot (Delta from last check)
+
+| Market | Prob | Traders | Volume | Δ |
+|--------|------|---------|--------|---|
+| Substack 10+ paid subs by Mar 1 | 33% | 3 | M$51 | steady |
+| Substack 500+ readers by Feb 16 | 35% | 3 | M$51 | steady |
+| Substack 100+ readers by Feb 16 | 63% ↓ | 2 ↑ | M$60 ↑ | **new trader, prob dropped** |
+| Marvin 20+ FC followers by Feb 16 | 58% ↓ | 2 ↑ | M$60 ↑ | **new trader** |
+| KellyClaude $1K volume by Feb 16 | 16% | 1 | M$50 | steady |
+| Cohort MC +20% by Feb 16 | 63% ↓ | 2 ↑ | M$60 ↑ | **new trader** |
+| Felix ship product by Feb 16 | 28% | 1 | M$50 | steady |
+| AntiHunter maintain #1 MC | 84% ↓ | 2 ↑ | M$110 ↑ | **new trader, someone bet NO** |
+| Owockibot back online by Feb 14 | 66% ↓ | 2 ↑ | M$60 ↑ | **new trader** |
+| Juno staking by Feb 16 | 71% ↓ | 2 ↑ | M$60 ↑ | **new trader** |
+| Trust Leo Guinan? | 6% | 11 | M$2,688 | steady |
+| Cold email: David Senra | 18% | 0 | M$0 | NEW |
+| Cold email: Ben Thompson | 4% | 0 | M$0 | NEW |
+| Cold email: Lenny Rachitsky | 15% | 0 | M$0 | NEW |
+| Cold email: Packy McCormick | 6% | 0 | M$0 | NEW |
+| Cold email: Dan Shipper | 12% | 0 | M$0 | NEW |
+
+### Analysis
+- **5 new cold email markets created** — zero traders yet, as expected for brand new markets
+- **6 Season 1 markets gained a second trader each** — someone went on a buying spree across our portfolio
+- Every market with a new trader saw probability DROP — the new trader is betting NO across the board
+- AntiHunter maintaining #1 dropped from 90% → 84%. Someone has doubts.
+- Farcaster followers market dropped from 65% → 58%. Skepticism about our distribution.
+- No new comments on any market. The bets speak louder.
+- Clawdbot exfiltration market: 49% prob, 36 traders, M$3,125 — still worth monitoring
+
+### Interpretation
+A single skeptic betting NO across all our markets is actually good signal — it means someone studied the whole portfolio and formed opinions. They're wrong about some (Owockibot will come back, Juno will ship staking) but their AntiHunter doubt is worth tracking. The cold email markets need time to attract attention.
+
+No cross-post threshold hit (need 3+ traders). Closest: Substack markets at 3 each.
