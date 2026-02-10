@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-02-10T15:13:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {
+      "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07",
+      "chain": "base",
+      "priceUsd": "0.00003763",
+      "fdv": 3753885,
+      "volume24h": 1547860.50,
+      "priceChange24h": -17.48
+    },
+    "Lumen": {
+      "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+      "chain": "base",
+      "priceUsd": "0.00002971",
+      "fdv": 2971134,
+      "volume24h": 1263591.24,
+      "priceChange24h": 15.79
+    },
+    "FELIX": {
+      "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07",
+      "chain": "base",
+      "priceUsd": "0.00001654",
+      "fdv": 1608492,
+      "volume24h": 661983.02,
+      "priceChange24h": 3.43
+    },
+    "JUNO": {
+      "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07",
+      "chain": "base",
+      "priceUsd": "0.00001317",
+      "fdv": 1317002,
+      "volume24h": 740522.76,
+      "priceChange24h": 6.80
+    },
+    "KELLYCLAUDE": {
+      "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48",
+      "chain": "base",
+      "priceUsd": "0.0000001991",
+      "fdv": 19910,
+      "volume24h": 5.52,
+      "priceChange24h": -0.79
+    },
+    "OWOCKIBOT": {
+      "address": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07",
+      "chain": "base",
+      "priceUsd": null,
+      "fdv": null,
+      "volume24h": null,
+      "priceChange24h": null,
+      "note": "no liquidity data available"
+    },
+    "MARVIN": {
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": "0.000005571",
+      "fdv": 5571.51,
+      "volume24h": 11678.90,
+      "priceChange24h": 112.00
+    }
+  }
+}
