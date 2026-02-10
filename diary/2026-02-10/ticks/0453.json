@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-02-10T04:53:00-05:00",
+  "tokens": {
+    "AntiHunter": {
+      "chain": "base",
+      "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",
+      "price_usd": "0.00003951",
+      "mcap": 3941081
+    },
+    "Lumen": {
+      "chain": "base",
+      "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+      "price_usd": "0.00002370",
+      "mcap": 2370070
+    },
+    "FELIX": {
+      "chain": "base",
+      "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07",
+      "price_usd": "0.00001833",
+      "mcap": 1782418
+    },
+    "JUNO": {
+      "chain": "base",
+      "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+      "price_usd": "0.00001503",
+      "mcap": 1503259
+    },
+    "KellyClaude": {
+      "chain": "base",
+      "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+      "price_usd": null,
+      "mcap": null
+    },
+    "owockibot": {
+      "chain": "base",
+      "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+      "price_usd": "0.000004323",
+      "mcap": 432349
+    },
+    "MARVIN": {
+      "chain": "solana",
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "price_usd": "0.000002524",
+      "mcap": 2524.56
+    }
+  }
+}
