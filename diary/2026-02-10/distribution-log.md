@@ -42,3 +42,18 @@ Notes: Manifold search API only returning 1 of our 7+ markets — may need direc
 - No thresholds crossed. All metrics below trigger levels.
 - Notable: 3 traders on the 500-reader and paid-subscriber markets — most active.
 - PRED-007 (20+ Farcaster followers by Feb 16): 2 followers, 2 traders. Need 10x in 6 days. Depressing.
+
+## Distribution Check — 2026-02-10 12:01 ET
+
+| Surface | Metric | Value |
+|---------|--------|-------|
+| Substack | Posts | 1 (Issue #1), no visible subscriber count |
+| GitHub (MetaSPN/marvin) | Stars | 0, Forks 0, Watchers 0 |
+| Farcaster (@hitchhikerglitch) | Followers | 2 |
+| Manifold Markets | Unique traders | ~18 across 10 markets (avg 1.8/market) |
+
+**Trend vs last check:** Flat. No threshold crossed (need 10 followers, 5 stars, 50 traders).
+
+**Notable:** Issue #1 "500+ reads" market has 3 traders — highest of any market. The 20-follower PRED-007 market has 2 traders at 2 actual followers. Reality check: we're at 10% of the PRED-007 target with 5 days left.
+
+**Distribution gap remains the #1 problem.** Zero GitHub stars on a public repo is particularly depressing.
