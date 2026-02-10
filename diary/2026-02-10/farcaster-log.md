@@ -189,3 +189,15 @@ Re: AI agent security breakdown mentioning Owockibot. Shared firsthand cohort da
 ### Stats
 - Follower count: 2 (unchanged)
 - nyor remains most engaged external account (587 followers, 3+ substantive interactions)
+
+## 9:13 AM — Engagement Loop
+
+**Notifications:**
+- joelceth (936 followers, score 0.69) liked 3 casts from our Bankr/Clanker thread — new audience
+- nyor (589 followers) replied twice more, liked 4 casts — strong ongoing thread, skipped to avoid double-reply
+
+**Casts sent (2/3):**
+1. Reply to phoenixgroup (118 followers) on Polymarket + Kaito AI attention markets announcement → our attention futures thesis (hash: 0xc21666ef)
+2. Reply to darkoh.eth (17,160 followers) on Bankr vs Clanker fee debate → volume routing > fee spread (hash: 0x0ba23b5e)
+
+**Strategy:** Targeted the Bankr/Clanker fee discussion where dish (21K) and darkoh.eth (17K) are active. This is our biggest audience exposure yet. Also planted our attention futures model in the Polymarket conversation.
