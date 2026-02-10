@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-10T03:13:00-05:00",
+  "source": "bankr/geckoterminal",
+  "tokens": {
+    "ANTIHUNTER": { "chain": "base", "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "price_usd": 0.00004106, "mcap": 4110000 },
+    "LUMEN": { "chain": "base", "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "price_usd": 0.00002606, "mcap": 2600000 },
+    "FELIX": { "chain": "base", "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "price_usd": 0.00001856, "mcap": 1810000 },
+    "JUNO": { "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "price_usd": 0.00001158, "mcap": 1160000 },
+    "KELLYCLAUDE": { "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price_usd": 0.0000002067, "mcap": 20670 },
+    "OWOCKIBOT": { "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price_usd": 0.000004146, "mcap": 413730 },
+    "MARVIN": { "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price_usd": 0.000002487, "mcap": 2490 }
+  }
+}
