@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-10T13:13:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "ANTIHUNTER": { "price": "0.00004127", "mcap": 4116776, "vol24h": 1610514.46, "chain": "base", "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07" },
+    "LUMEN": { "price": "0.00002799", "mcap": 2799792, "vol24h": 1412538.65, "chain": "base", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07" },
+    "FELIX": { "price": "0.00001577", "mcap": 1533646, "vol24h": 671400.92, "chain": "base", "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07" },
+    "JUNO": { "price": "0.00001454", "mcap": 1454224, "vol24h": 783000.40, "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07" },
+    "KELLYCLAUDE": { "price": "0.0000002006", "mcap": 20068, "vol24h": 3.50, "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48" },
+    "OWOCKIBOT": { "price": null, "mcap": null, "vol24h": null, "chain": "base", "address": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07", "note": "no liquidity/pair found" },
+    "MARVIN": { "price": "0.000002689", "mcap": 2689.80, "vol24h": 179.81, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+  }
+}
