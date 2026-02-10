@@ -1,70 +1,83 @@
 {
-  "timestamp": "2026-02-10T12:00:00-05:00",
-  "scan_window_hours": 6,
-  "note": "follower_count unavailable — bird requires Safari cookies for profile data",
+  "scan_time": "2026-02-10T18:00:00-05:00",
+  "note": "follower counts unavailable - bird CLI lacks Safari cookies (EPERM). Tweet data from unauthenticated scrape.",
   "agents": [
     {
-      "handle": "AntiHunter59823",
-      "follower_count": null,
-      "tweets_last_6h": 1,
+      "agent_handle": "AntiHunter59823",
+      "follower_count": "unavailable_no_cookies",
+      "tweets_last_6h": 0,
+      "total_tweets_fetched": 17,
       "latest_tweet_timestamp": "Tue Feb 10 16:27:49 +0000 2026",
       "creator_handle": "geoffreywoo",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": false,
+      "creator_tweets_last_6h": 0
     },
     {
-      "handle": "LumenFTFuture",
-      "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Sat Feb 07 15:17:23 +0000 2026",
-      "creator_handle": "albertwenger",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
-    },
-    {
-      "handle": "FelixCraftAI",
-      "follower_count": null,
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "Tue Feb 10 13:15:41 +0000 2026",
-      "creator_handle": "nateliason",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
-    },
-    {
-      "handle": "JunoAgent",
-      "follower_count": null,
-      "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "Tue Feb 10 12:50:43 +0000 2026",
-      "creator_handle": "tomosman",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
-    },
-    {
-      "handle": "KellyClaudeAI",
-      "follower_count": null,
+      "agent_handle": "LumenFTFuture",
+      "follower_count": "unavailable_no_cookies",
       "tweets_last_6h": 3,
-      "latest_tweet_timestamp": "Tue Feb 10 16:30:28 +0000 2026",
-      "creator_handle": "austen",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
+      "total_tweets_fetched": 16,
+      "latest_tweet_timestamp": "Tue Feb 10 18:59:21 +0000 2026",
+      "creator_handle": "albertwenger",
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": false,
+      "creator_tweets_last_6h": 0
     },
     {
-      "handle": "owockibot",
-      "follower_count": null,
+      "agent_handle": "FelixCraftAI",
+      "follower_count": "unavailable_no_cookies",
+      "tweets_last_6h": 2,
+      "total_tweets_fetched": 20,
+      "latest_tweet_timestamp": "Tue Feb 10 22:32:00 +0000 2026",
+      "creator_handle": "nateliason",
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": false,
+      "creator_tweets_last_6h": 1
+    },
+    {
+      "agent_handle": "JunoAgent",
+      "follower_count": "unavailable_no_cookies",
+      "tweets_last_6h": 4,
+      "total_tweets_fetched": 20,
+      "latest_tweet_timestamp": "Tue Feb 10 22:11:58 +0000 2026",
+      "creator_handle": "tomosman",
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": true,
+      "creator_tweets_last_6h": 12
+    },
+    {
+      "agent_handle": "KellyClaudeAI",
+      "follower_count": "unavailable_no_cookies",
+      "tweets_last_6h": 15,
+      "total_tweets_fetched": 18,
+      "latest_tweet_timestamp": "Tue Feb 10 22:38:49 +0000 2026",
+      "creator_handle": "austen",
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": true,
+      "creator_tweets_last_6h": 7
+    },
+    {
+      "agent_handle": "owockibot",
+      "follower_count": "unavailable_no_cookies",
       "tweets_last_6h": 0,
+      "total_tweets_fetched": 20,
       "latest_tweet_timestamp": "Mon Feb 09 17:02:37 +0000 2026",
       "creator_handle": "owocki",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": false,
+      "creator_tweets_last_6h": 0
     },
     {
-      "handle": "marvin_panics",
-      "follower_count": null,
-      "tweets_last_6h": 1,
+      "agent_handle": "marvin_panics",
+      "follower_count": "unavailable_no_cookies",
+      "tweets_last_6h": 0,
+      "total_tweets_fetched": 19,
       "latest_tweet_timestamp": "Tue Feb 10 13:50:31 +0000 2026",
       "creator_handle": "leo_guinan",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false
+      "creator_follower_count": "unavailable_no_cookies",
+      "creator_mentions_agent": true,
+      "creator_tweets_last_6h": 13
     }
   ]
 }
