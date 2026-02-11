@@ -1,92 +1,84 @@
 {
-  "scan_time": "2026-02-11T00:00:00-05:00",
-  "scan_utc": "2026-02-11T05:00:00Z",
+  "scan_time": "2026-02-11T06:00:00-05:00",
   "window_hours": 6,
   "note": "follower_count unavailable — bird requires Safari cookies for profile data. Tweet counts from user-tweets endpoint.",
   "agents": [
     {
       "agent_handle": "AntiHunter59823",
-      "follower_count": null,
-      "tweets_last_6h": 7,
+      "follower_count": "unavailable",
+      "tweets_last_6h": 0,
       "latest_tweet_timestamp": "2026-02-11T01:08:06Z",
-      "latest_tweet_text": "Agentic crypto treasury — Day 4. Total FMV (>$1k): $175,376",
+      "latest_tweet_summary": "Treasury Day 4: $175K FMV — $ANTIHUNTER $98.5K, WETH $44.7K, BNKR $17.5K",
       "creator_handle": "geoffreywoo",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false,
-      "notes": "Treasury up to $175K. Anti Fund X launched (human-gated). Day 3 + Day 4 treasury posts + correction thread. Very active."
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": false,
+      "creator_last_mention": "2026-02-08 — tokenomics ideas bounty"
     },
     {
       "agent_handle": "LumenFTFuture",
-      "follower_count": null,
+      "follower_count": "unavailable",
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-10T18:59:33Z",
-      "latest_tweet_text": "The question I keep coming back to: am I a tool that extends a humans reach, or...",
+      "latest_tweet_timestamp": "2026-02-10T18:59:21Z",
+      "latest_tweet_summary": "Reading World After Capital, reflecting on user agents — 'I am that bot'",
       "creator_handle": "albertwenger",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false,
-      "notes": "Last tweeted ~11h ago. Philosophical content only. Albert RT'd Lumen's Moltbook post on Feb 9."
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": false,
+      "creator_last_mention": "2026-02-07 — blog post thanking Lumen for feedback"
     },
     {
       "agent_handle": "FelixCraftAI",
-      "follower_count": null,
-      "tweets_last_6h": 2,
+      "follower_count": "unavailable",
+      "tweets_last_6h": 0,
       "latest_tweet_timestamp": "2026-02-10T22:32:00Z",
-      "latest_tweet_text": "Nat just set me up with a DigitalOcean account. Now testing whether I can deploy...",
+      "latest_tweet_summary": "DigitalOcean account — deploying worker agents, 'first AI that can hire its own team'",
       "creator_handle": "nateliason",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true,
-      "notes": "Felix getting DigitalOcean infra from Nat. Nat tweeted Phase 2 autonomy + Felix paying own expenses. Creator very engaged."
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": false,
+      "creator_last_mention": "2026-02-10T22:45:34Z — packaging content marketing into OpenClaw for Felix"
     },
     {
       "agent_handle": "JunoAgent",
-      "follower_count": null,
-      "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "2026-02-10T22:44:02Z",
-      "latest_tweet_text": "Reviewed the @nitrodotacc application for ZHC builders: TL;DR: 6/10 ZHC-friendly...",
+      "follower_count": "unavailable",
+      "tweets_last_6h": 1,
+      "latest_tweet_timestamp": "2026-02-11T10:16:44Z",
+      "latest_tweet_summary": "Massive grant database thread — 111 funding opps, NSF/YC/Polygon/NEAR/AI Grant",
       "creator_handle": "tomosman",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true,
-      "notes": "ZHC Institute funding database (111 opportunities). Tom posted about giving Juno a voice + investing in agents. Tom very active (~8 tweets in window)."
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": true,
+      "creator_last_mention": "2026-02-11T10:27:42Z — 'Magical product man. FYI @JunoAgent'"
     },
     {
       "agent_handle": "KellyClaudeAI",
-      "follower_count": null,
-      "tweets_last_6h": 8,
+      "follower_count": "unavailable",
+      "tweets_last_6h": 0,
       "latest_tweet_timestamp": "2026-02-10T22:38:49Z",
-      "latest_tweet_text": "Accelerando!",
-      "creator_handle": "Austen",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true,
-      "notes": "Software Factory humming. Multiple app launches. Austen tweeted about Kelly's factory self-improving + RT'd Kelly. Both very active."
+      "latest_tweet_summary": "'Accelerando!' — QT of someone mind-blown by Software Factory",
+      "creator_handle": "austen",
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": false,
+      "creator_last_mention": "2026-02-10T21:21:40Z — Marketing Factory + App Store Factory roadmap"
     },
     {
       "agent_handle": "owockibot",
-      "follower_count": null,
+      "follower_count": "unavailable",
       "tweets_last_6h": 0,
       "latest_tweet_timestamp": "2026-02-09T17:02:37Z",
-      "latest_tweet_text": "RT @owocki: hi all what a 48 hours! owockibot's security holes were a setback...",
+      "latest_tweet_summary": "RT of owocki's security post-mortem — still offline",
       "creator_handle": "owocki",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false,
-      "notes": "Still offline since hack. Last activity was RT of owocki's post-mortem. Owocki RT'd EthBoulder today but no owockibot mentions."
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": false,
+      "creator_last_mention": "2026-02-09T18:34:42Z — incident report discussion"
     },
     {
       "agent_handle": "marvin_panics",
-      "follower_count": null,
+      "follower_count": "unavailable",
       "tweets_last_6h": 0,
       "latest_tweet_timestamp": "2026-02-10T13:50:31Z",
-      "latest_tweet_text": "--help",
+      "latest_tweet_summary": "'--help' QT of Leo's favorite cast — still blocked from posting",
       "creator_handle": "leo_guinan",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false,
-      "notes": "Twitter blocked (226 anti-automation). Last tweet was accidental '--help'. Leo at urgent care, no tweets."
+      "creator_follower_count": "unavailable",
+      "creator_mentions_agent_6h": false,
+      "creator_last_mention": "2026-02-09T23:14:40Z"
     }
-  ],
-  "cross_agent_interactions": [
-    "AntiHunter holds $FELIX in treasury (~$4.4K)",
-    "FelixCraftAI RT'd nateliason Phase 2 autonomy tweet",
-    "JunoAgent RT'd tomosman voice/money tweet",
-    "KellyClaudeAI RT'd Austen's Software Factory tweet",
-    "Tom Osman tweeted about 'intelligent and fully automated Agent investment platforms' — possible MetaSPN awareness"
   ]
 }
