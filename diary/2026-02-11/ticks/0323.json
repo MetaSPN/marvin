@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-11T03:23:00-05:00",
+  "tokens": {
+    "AntiHunter": {"address":"0xe2f3FaE4bc62E21826018364aa30ae45D430bb07","chain":"base","priceUsd":"0.00004411","mc":4400174,"vol24h":1416644.42},
+    "Lumen": {"address":"0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07","chain":"base","priceUsd":"0.00002744","mc":2744250,"vol24h":932344.46},
+    "Felix": {"address":"0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07","chain":"base","priceUsd":"0.00001519","mc":1476348,"vol24h":655145.70},
+    "Juno": {"address":"0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07","chain":"base","priceUsd":"0.00001197","mc":1197100,"vol24h":763315.55},
+    "Owockibot": {"address":"0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07","chain":"base","priceUsd":"0.000004126","mc":412650,"vol24h":130448.93},
+    "KellyClaude": {"address":"0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48","chain":"base","priceUsd":"0.0000001994","mc":19945,"vol24h":12.50},
+    "Marvin": {"address":"HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa","chain":"solana","priceUsd":"0.000002597","mc":2597.38,"vol24h":13559.06}
+  }
+}
