@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-11T15:03:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {"price": "0.00005329", "marketCap": 5315171, "volume24h": 1833355.46, "chain": "base", "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07"},
+    "FELIX": {"price": "0.00001661", "marketCap": 1613827, "volume24h": 577141.29, "chain": "base", "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07"},
+    "JUNO": {"price": "0.00001092", "marketCap": 1092836, "volume24h": 474888.17, "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07"},
+    "Lumen": {"price": "0.00002693", "marketCap": 2693631, "volume24h": 661534.79, "chain": "base", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"},
+    "KELLYCLAUDE": {"price": "0.0000001913", "marketCap": 19132, "volume24h": 13.61, "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48"},
+    "owockibot": {"price": "0.000004240", "marketCap": 424090, "volume24h": 113150.24, "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07"},
+    "MARVIN": {"price": "0.000002573", "marketCap": 2573.83, "volume24h": 9962.19, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+  }
+}
