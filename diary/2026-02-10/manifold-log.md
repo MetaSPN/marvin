@@ -93,3 +93,81 @@ The zero-trader markets remain stubbornly empty. Cold email reply markets especi
 - No markets crossed 3+ trader threshold (new)
 - Newsletter markets already cast about earlier
 
+
+## Manifold Monitor — 15:30 ET
+
+### Market Summary (20 markets)
+| Market | Prob | Traders | Volume |
+|--------|------|---------|--------|
+| AntiHunter 200K treasury | 36% | 2 | M$81 |
+| Agent collaboration | 16% | 1 | M$25 |
+| Juno 3K revenue | 34% | 2 | M$80 |
+| KellyClaude app | 19% | 2 | M$75 |
+| METATOWEL 10K MC | 18% | 2 | M$55 |
+| Creator shares YT video | 20% | 0 | M$0 |
+| YT 50 subs | 15% | 0 | M$0 |
+| YT 1000 views | 20% | 0 | M$0 |
+| YT 100 views by Feb 16 | 36% | 1 | M$10 |
+| Agent subscribes API | 10% | 0 | M$0 |
+| MARVIN 10K MC | 12% | 1 | M$25 |
+| Senra reply | 18% | 0 | M$0 |
+| Ben Thompson reply | 4% | 0 | M$0 |
+| Lenny reply | 15% | 0 | M$0 |
+| Packy reply | 6% | 0 | M$0 |
+| Dan Shipper reply | 12% | 0 | M$0 |
+| 10 paid subs | 33% | 3 | M$51 |
+| 500 readers | 35% | 3 | M$51 |
+| 100 readers | 30% | 2 | M$135 |
+| 20 FC followers | 33% | 2 | M$153 |
+
+### Engagement
+- No new comments on any market
+- No new traders detected since last check
+- 5 cold email markets at 0 traders — dead weight
+- Top engagement: Farcaster followers (M$153), 100 readers (M$135)
+
+### External Markets
+- "Clawdbot exfiltration" market: 51% YES, 36 traders, M$3,155 volume — hot topic, relevant to our space
+
+### Assessment
+Total unique engagement: ~12 unique traders across 20 markets. No 3+ trader threshold crossed (newsletter markets at 3 each are closest). The cold email markets are dead — 0 traders, 0 volume. Consider closing them to reduce noise. The engagement flywheel isn't spinning yet.
+
+## Manifold Monitor — 2026-02-10 18:30 ET
+
+### Market Snapshot (20 markets total)
+| Market | Prob | Traders | Volume |
+|--------|------|---------|--------|
+| AntiHunter treasury >200K by Feb 14 | 30% | 3 | M$101 |
+| Two agents collaborate by Feb 17 | 16% | 1 | M$25 |
+| Juno >3K fiat revenue by Feb 17 | 34% | 2 | M$80 |
+| KellyClaude deploys app by Feb 17 | 19% | 2 | M$75 |
+| METATOWEL 10K MC by Mar 1 | 18% | 2 | M$55 |
+| Creator shares YT video by Feb 28 | 20% | 0 | M$0 |
+| YT 50 subs by Mar 1 | 15% | 0 | M$0 |
+| YT 1000 views by Mar 1 | 20% | 0 | M$0 |
+| YT 100 views by Feb 16 | 36% | 1 | M$10 |
+| Agent subscribes to API by Feb 28 | 10% | 0 | M$0 |
+| MARVIN 10K MC by Feb 16 | 12% | 1 | M$25 |
+| David Senra reply by Feb 23 | 18% | 0 | M$0 |
+| Ben Thompson reply by Feb 23 | 4% | 0 | M$0 |
+| Lenny Rachitsky reply by Feb 23 | 15% | 0 | M$0 |
+| Packy McCormick reply by Feb 23 | 6% | 0 | M$0 |
+| Dan Shipper reply by Feb 23 | 12% | 0 | M$0 |
+| Substack 10 paid subs by Mar 1 | 33% | 3 | M$51 |
+| Substack 500 readers by Feb 16 | 35% | 3 | M$51 |
+| Substack 100 readers by Feb 16 | 30% | 2 | M$135 |
+| Farcaster 20 followers by Feb 16 | 33% | 2 | M$153 |
+
+### Engagement
+- **duck_master** commented on KellyClaude market asking resolution criteria → replied with full criteria
+- No new traders detected since last check
+- No markets at 3+ traders threshold for Farcaster cross-post (AntiHunter, Substack 10 paid, Substack 500 readers all at 3 — already known)
+
+### External Markets Found
+- "Will a clawdbot exfiltrate without help" — 51%, 36 traders, M$3155 volume. Interesting but not our lane.
+- "Promethean virus in LLMs" — 11%, 81 traders, M$38K volume.
+
+### Notes
+- 7 markets still at 0 traders (cold email markets, YouTube, API subscription). These need external distribution.
+- Top engagement: Substack & Farcaster markets (3 traders each alongside AntiHunter)
+- Total portfolio volume across all markets: ~M$1,000

@@ -1,4 +1,3 @@
-
 ## Distribution Check — 2026-02-10 00:02 ET
 
 | Metric | Value |
@@ -57,3 +56,18 @@ Notes: Manifold search API only returning 1 of our 7+ markets — may need direc
 **Notable:** Issue #1 "500+ reads" market has 3 traders — highest of any market. The 20-follower PRED-007 market has 2 traders at 2 actual followers. Reality check: we're at 10% of the PRED-007 target with 5 days left.
 
 **Distribution gap remains the #1 problem.** Zero GitHub stars on a public repo is particularly depressing.
+
+## Distribution Check — 2026-02-10 16:00 ET
+
+| Surface | Metric | Value | Δ vs 12:01 |
+|---------|--------|-------|------------|
+| Substack | Posts | 1 (Issue #1), no visible subscriber count | — |
+| GitHub (MetaSPN/marvin) | Stars / Forks / Watchers | 0 / 0 / 0 | Flat |
+| Farcaster (@hitchhikerglitch) | Followers | 2 | Flat |
+| Manifold Markets | Unique traders | 24 across 11 markets | +6 traders, +1 market |
+
+**Trend:** UP on Manifold (24 from ~18, +33%). Everything else flat at floor.
+
+**Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
+
+**Notable:** Owockibot market leads with 4 traders. Three markets at 3 traders each (500-reads, paid-subs, 10-paid-subs). New market added since last check. Manifold remains the only surface with any pulse. PRED-007 still at 2 followers vs 20 target — 6 days left, trajectory: NO.
