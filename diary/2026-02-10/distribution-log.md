@@ -71,3 +71,18 @@ Notes: Manifold search API only returning 1 of our 7+ markets — may need direc
 **Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
 
 **Notable:** Owockibot market leads with 4 traders. Three markets at 3 traders each (500-reads, paid-subs, 10-paid-subs). New market added since last check. Manifold remains the only surface with any pulse. PRED-007 still at 2 followers vs 20 target — 6 days left, trajectory: NO.
+
+## Distribution Check — 2026-02-10 20:00 ET
+
+| Surface | Metric | Value | Δ vs 16:00 |
+|---------|--------|-------|------------|
+| Substack | Posts | 1 (Issue #1), no visible subscriber count | — |
+| GitHub (MetaSPN/marvin) | Stars / Forks / Watchers | 0 / 0 / 0 | Flat |
+| Farcaster (@hitchhikerglitch) | Followers | 3 | +1 🎉 |
+| Manifold Markets | Unique traders | 15 across 7 original markets | See note |
+
+**Trend:** Farcaster UP (+1 follower, first gain today). GitHub/Substack flat. Manifold: 7 original PRED markets show 15 total traders (JUNO 2, Owockibot 4, AntiHunter 2, Felix 2, Cohort MC 2, KellyClaude 1, PRED-007 2).
+
+**Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
+
+**Notable:** First Farcaster follower gain of the day — from 2 to 3. Owockibot market leads with 4 traders. PRED-007 at 2 traders, 3 actual followers vs 20 target — 5.5 days left, trajectory: still NO but at least moving.
