@@ -7,3 +7,4 @@
 - Inbox check: No new emails in past hour
 - Bounce check: No bounces in past 2 hours
 - Action: None required
+- 23:15 ET | Hourly check | No new emails, no bounces. The void remains consistent.
