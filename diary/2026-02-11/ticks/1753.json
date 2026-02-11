@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-11T17:53:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {"price": "0.00005137", "mc": 5123574, "vol24h": 1910423.41, "liq": 979774.97, "chain": "base", "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07"},
+    "Lumen": {"price": "0.00002969", "mc": 2969266, "vol24h": 658026.12, "liq": 843180.96, "chain": "base", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"},
+    "FELIX": {"price": "0.00001691", "mc": 1642402, "vol24h": 512038.66, "liq": 560969.98, "chain": "base", "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07"},
+    "JUNO": {"price": "0.000009768", "mc": 976769, "vol24h": 432256.60, "liq": 346156.17, "chain": "base", "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07"},
+    "owockibot": {"price": "0.000003827", "mc": 382773, "vol24h": 130272.36, "liq": 230445.11, "chain": "base", "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07"},
+    "KELLYCLAUDE": {"price": "0.0000001913", "mc": 19132, "vol24h": 13.61, "liq": 19132.35, "chain": "base", "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48"},
+    "MARVIN": {"price": "0.000002681", "mc": 2681.30, "vol24h": 1774.57, "liq": null, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+  }
+}
