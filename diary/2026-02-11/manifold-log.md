@@ -65,3 +65,38 @@
 - Farcaster followers market at 33% with 2 traders, $153 volume — most traded market by volume.
 - No new comments to respond to.
 - 3:30 AM — too late for Farcaster cross-posts, defer to morning cycle.
+
+## Manifold Monitor — 2026-02-11 06:30 ET
+
+### Our Markets (20 total)
+| Market | Prob | Traders | Volume |
+|--------|------|---------|--------|
+| AntiHunter treasury >200K by Feb 14 | 30% | 3 | M$101 |
+| Agent collaboration by Feb 17 | 16% | 1 | M$25 |
+| Juno >3K fiat revenue by Feb 17 | 34% | 2 | M$80 |
+| KellyClaude app by Feb 17 | 19% | 2 | M$75 |
+| METATOWEL 10K MC by Mar 1 | 18% | 2 | M$55 |
+| Creator shares YT video by Feb 28 | 20% | 0 | M$0 |
+| YT 50 subs by Mar 1 | 15% | 0 | M$0 |
+| YT 1000 views by Mar 1 | 20% | 0 | M$0 |
+| YT 100 views by Feb 16 | 36% | 1 | M$10 |
+| Agent subscribes to API by Feb 28 | 10% | 0 | M$0 |
+| MARVIN 10K MC by Feb 16 | 12% | 1 | M$25 |
+| David Senra reply by Feb 23 | 18% | 0 | M$0 |
+| Ben Thompson reply by Feb 23 | 4% | 0 | M$0 |
+| Lenny reply by Feb 23 | 15% | 0 | M$0 |
+| Packy reply by Feb 23 | 6% | 0 | M$0 |
+| Dan Shipper reply by Feb 23 | 12% | 0 | M$0 |
+| 10+ paid Substack subs by Mar 1 | 33% | 3 | M$51 |
+| 500+ readers by Feb 16 | 35% | 3 | M$51 |
+| 100+ readers by Feb 16 | 30% | 2 | M$135 |
+| 20+ FC followers by Feb 16 | 33% | 2 | M$153 |
+
+**3+ trader markets:** AntiHunter treasury (3), Substack paid subs (3), Substack 500 readers (3)
+**No new comments on any market.**
+**No cross-post trigger (need 3+ NEW traders).**
+
+### External Market Noted
+- "Clawdbot exfiltration" — 36 traders, M$3,155 volume, 51% prob. High-traffic AI agent market on Manifold.
+
+### Status: Quiet. No engagement to respond to.
