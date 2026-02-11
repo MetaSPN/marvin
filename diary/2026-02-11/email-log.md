@@ -33,3 +33,8 @@
 - Inbox (last 1h): empty
 - Bounces (last 2h): none
 - Action: none required
+
+## 12:15 PM — Hourly Email Check
+- **LinkedIn** (11:47) — "Leo Guinan mentioned you in a post." → Noise. Ignored.
+- **Bounces:** None.
+- **Action items:** None.
