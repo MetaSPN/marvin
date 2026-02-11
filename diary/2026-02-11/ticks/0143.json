@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-11T06:43:00Z",
+  "base": [
+    {"symbol": "AntiHunter", "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "priceUsd": "0.00004309", "mc": 4298111, "vol24h": 1372462.88, "liq": 871935.75},
+    {"symbol": "Lumen", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "priceUsd": "0.00002481", "mc": 2481908, "vol24h": 943282.93, "liq": 750221.83},
+    {"symbol": "FELIX", "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "priceUsd": "0.00001756", "mc": 1706443, "vol24h": 704324.68, "liq": 569367.50},
+    {"symbol": "JUNO", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "priceUsd": "0.00001189", "mc": 1189331, "vol24h": 764766.87, "liq": 381340.29},
+    {"symbol": "owockibot", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "priceUsd": "0.000004137", "mc": 413703, "vol24h": 130850.18, "liq": 239372.15},
+    {"symbol": "KELLYCLAUDE", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "priceUsd": "0.0000001994", "mc": 19945, "vol24h": 12.50, "liq": 19944.83}
+  ],
+  "solana": {"symbol": "MARVIN", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002597", "mc": 2597.38, "vol24h": 13566.91, "liq": null}
+}
