@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-11T01:13:00Z",
+  "localTime": "2026-02-10T20:13:00-05:00",
+  "tokens": {
+    "ANTIHUNTER": {"price": "0.00003851", "marketCap": 3841314, "volume24h": 1035426.67, "change24h": 2.75},
+    "LUMEN": {"price": "0.00002566", "marketCap": 2566926, "volume24h": 995546.75, "change24h": -8.2},
+    "FELIX": {"price": "0.00001841", "marketCap": 1789773, "volume24h": 743666.95, "change24h": 22.21},
+    "JUNO": {"price": "0.00001137", "marketCap": 1137506, "volume24h": 735639.5, "change24h": -11.92},
+    "OWOCKIBOT": {"price": "0.000004563", "marketCap": 456322, "volume24h": 117975.23, "change24h": 1.43},
+    "KELLYCLAUDE": {"price": "0.0000001991", "marketCap": 19910, "volume24h": 5.52, "change24h": -0.79},
+    "MARVIN": {"price": "0.000005409", "marketCap": 5409.12, "volume24h": 12183.08, "change24h": 114, "chain": "solana"}
+  }
+}
