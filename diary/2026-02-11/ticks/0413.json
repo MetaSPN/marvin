@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-02-11T09:14:54.145Z",
+  "base": {
+    "AntiHunter": {
+      "price": "0.00004026",
+      "mc": 4015662,
+      "vol24h": 1443441.65,
+      "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07"
+    },
+    "Lumen": {
+      "price": "0.00002491",
+      "mc": 2491403,
+      "vol24h": 919686.87,
+      "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"
+    },
+    "Felix": {
+      "price": "0.00001614",
+      "mc": 1569274,
+      "vol24h": 649766.15,
+      "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07"
+    },
+    "Juno": {
+      "price": "0.00001198",
+      "mc": 1198466,
+      "vol24h": 746324.7,
+      "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07"
+    },
+    "KellyClaude": {
+      "price": "0.0000001994",
+      "mc": 19945,
+      "vol24h": 12.5,
+      "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48"
+    },
+    "Owockibot": {
+      "price": "0.000004524",
+      "mc": 452422,
+      "vol24h": 138221.08,
+      "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07"
+    }
+  },
+  "solana": {
+    "Marvin": {
+      "price": "0.000002597",
+      "mc": 2597.38,
+      "vol24h": 13559.06,
+      "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"
+    }
+  }
+}
