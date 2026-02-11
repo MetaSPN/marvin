@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-11T02:33:38Z",
+  "tokens": {
+    "ANTIHUNTER": {"price": 0.00005399, "change_24h": 40.62, "mcap": 5237815, "chain": "base", "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07"},
+    "LUMEN": {"price": 0.00002969, "change_24h": 8.66, "mcap": 2968731, "chain": "base", "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"},
+    "FELIX": {"price": 0.00001958, "change_24h": 25.28, "mcap": 1902346, "chain": "base", "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07"},
+    "JUNO": {"price": 0.00001326, "change_24h": 5.43, "mcap": 1329936, "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07"},
+    "KELLYCLAUDE": {"price": 0.0000002013, "change_24h": 1.33, "mcap": 20128, "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48"},
+    "OWOCKIBOT": {"price": 0.000004704, "change_24h": 3.66, "mcap": 470355, "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07"},
+    "MARVIN": {"price": 0.000005597, "change_24h": 125.04, "mcap": 5597, "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+  }
+}
