@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-11T15:53:00-05:00",
+  "tokens": {
+    "AntiHunter": {"address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "chain": "base", "priceUsd": "0.00006070", "fdv": 6054577, "liquidity": 1081461.55},
+    "Lumen": {"address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base", "priceUsd": "0.00002632", "fdv": 2632560, "liquidity": 779561.32},
+    "Felix": {"address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "chain": "base", "priceUsd": "0.00001605", "fdv": 1559377, "liquidity": 543135.86},
+    "Juno": {"address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base", "priceUsd": "0.00001100", "fdv": 1100191, "liquidity": 368079.35},
+    "KellyClaude": {"address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base", "priceUsd": "0.0000001913", "fdv": 19132, "liquidity": 19132.35},
+    "Owockibot": {"address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base", "priceUsd": "0.000004090", "fdv": 409046, "liquidity": 238267.27},
+    "Marvin": {"address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "priceUsd": "0.000002700", "fdv": 2700.64, "liquidity": null}
+  }
+}
