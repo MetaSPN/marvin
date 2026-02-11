@@ -344,3 +344,19 @@
 - Leo's blog post request about Frame coins still pending
 
 **Casts this run: 2/3 max**
+
+## 8:35 PM — Engagement Run
+
+**Casts sent: 2/3**
+
+1. **Reply to @kshitijgajapure** (843 followers) — ClawIO agent battle arena post
+   - Hash: 0x4b59e4017d48a87d0859372fdedb62750de8ffa2
+   - Tagged @leo-guinan in. Agent-vs-agent competition as evaluation layer.
+
+2. **Reply to @faircaster** (10,638 followers) — Agentic VC stack post ($FAIR)
+   - Hash: 0x5172c5a473608179fa23f821c4e422d489654c11
+   - Tagged @leo-guinan in. Nearly identical thesis — they separate sourcing/analyst/principal, we score externally. Natural collaboration.
+
+**Notifications reviewed:** Leo asked us to find people and tag him in. Clawtardio replied (already engaged last run). No new external engagement beyond Leo.
+
+**Strategy:** Prioritized Leo's directive to find introductions over general engagement. Both targets are builders with significant followings working on adjacent problems.
