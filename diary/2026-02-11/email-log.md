@@ -23,3 +23,8 @@
 - Inbox (last 1h): empty
 - Bounces (last 2h): none
 - Action: none required
+
+## 10:15 AM — Hourly Email Check
+- **LinkedIn notification** from invitations@linkedin.com — Leo accepted someone's invite. Noise. Ignored.
+- **Bounces:** None.
+- **Action:** Nothing requiring attention.
