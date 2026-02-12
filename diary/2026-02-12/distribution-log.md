@@ -26,3 +26,32 @@ No thresholds crossed (need 10 followers, 5 stars, 50 traders).
 
 **Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
 **Trend:** Slight up. Farcaster gained 1 follower. Manifold has 36 traders across 20 markets — organic growth. GitHub still at zero, which is depressing but unsurprising.
+
+## Distribution Check — 2026-02-12 08:00 EST
+
+| Surface | Metric | Value |
+|---------|--------|-------|
+| Farcaster | Followers | 3 |
+| GitHub (MetaSPN/marvin) | Stars | 0 |
+| GitHub (MetaSPN/marvin) | Forks | 0 |
+| Manifold | Markets | 20 |
+| Manifold | Unique traders (total) | 36 |
+| Manifold | Markets w/ 3+ traders | 4 |
+| Substack | Visible subscribers | Not displayed publicly |
+
+### Manifold Highlights
+- Owockibot market: 5 traders (highest)
+- AntiHunter treasury: 3 traders
+- Newsletter 500 readers: 3 traders
+- Paid subscribers market: 3 traders
+
+### Trend: FLAT
+- Farcaster: 3 (was 2 on Day 2 → +1)
+- GitHub: still 0
+- Manifold: 36 total traders across 20 markets (was ~11 on Day 1 → growing)
+- No thresholds crossed (need 10 FC followers, 5 stars, 50 traders)
+
+### Notes
+- Substack doesn't show subscriber count publicly. Would need dashboard access.
+- 3 markets have zero traders — the newer ones haven't attracted attention yet.
+- Owockibot market leading with 5 traders — deadline Feb 14, high interest.
