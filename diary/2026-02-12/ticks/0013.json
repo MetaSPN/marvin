@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-02-12T00:13:00-05:00",
+  "prices_usd": {
+    "AntiHunter": 0.000067197722731151,
+    "Lumen": 0.0000318611753109033,
+    "Felix": 0.0000224665592289917,
+    "Juno": 0.0000116338743525417,
+    "KellyClaude": 0.000000195719922215643,
+    "Owockibot": 0.00000626488854158785,
+    "Marvin": 0.00000270118941463221
+  },
+  "source": "bankr",
+  "chains": {
+    "AntiHunter": "base",
+    "Lumen": "base",
+    "Felix": "base",
+    "Juno": "base",
+    "KellyClaude": "base",
+    "Owockibot": "base",
+    "Marvin": "solana"
+  }
+}
