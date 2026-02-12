@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-12T10:43:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": { "price": "0.00007202", "mc": 7183794 },
+    "Lumen": { "price": "0.00003970", "mc": 3970692 },
+    "FELIX": { "price": "0.00002228", "mc": 2164023 },
+    "JUNO": { "price": "0.00001306", "mc": 1306664 },
+    "owockibot": { "price": "0.000005815", "mc": 581534 },
+    "KELLYCLAUDE": { "price": "0.0000001961", "mc": 19612 },
+    "MARVIN": { "price": "0.000002759", "mc": 2759 }
+  }
+}
