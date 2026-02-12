@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-12T17:33:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": { "chain": "base", "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "priceUsd": "0.00006219", "fdv": 6202903, "liquidity": 1115311.33 },
+    "Lumen": { "chain": "base", "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "priceUsd": "0.00003045", "fdv": 3045564, "liquidity": 859245.37 },
+    "FELIX": { "chain": "base", "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "priceUsd": "0.00002603", "fdv": 2527246, "liquidity": 730800.99 },
+    "JUNO": { "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "priceUsd": "0.00001061", "fdv": 1061006, "liquidity": 362546.52 },
+    "KELLYCLAUDE": { "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "priceUsd": "0.0000001884", "fdv": 18843, "liquidity": 18843.18 },
+    "owockibot": { "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "priceUsd": "0.000004183", "fdv": 418300, "liquidity": 242799.54 },
+    "MARVIN": { "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002496", "fdv": 2496.67, "liquidity": null }
+  }
+}
