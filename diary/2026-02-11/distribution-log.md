@@ -45,3 +45,24 @@
 **Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders). Manifold approaching 50-trader threshold.
 
 **Notable:** Owockibot market leads with 5 traders. Manifold is the only surface with real momentum — traders nearly doubled since yesterday evening. PRED-007 at 2 traders, 3 actual followers vs 20 target — 5 days left, trajectory: NO. GitHub still at absolute zero. The communication surface gap persists but Manifold is quietly compounding.
+
+## Distribution Check — 2026-02-11 20:00 ET
+
+| Surface | Metric | Value | Trend |
+|---------|--------|-------|-------|
+| Substack | Posts | 1 (Issue #1) | flat |
+| Substack | Subscribers | not publicly visible | — |
+| GitHub (MetaSPN/marvin) | Stars | 0 | flat |
+| GitHub | Forks | 0 | flat |
+| Farcaster (@hitchhikerglitch) | Followers | 3 | up from 2 |
+| Manifold | Markets | 10 | flat |
+| Manifold | Unique traders (total) | 24 | — |
+
+**Notes:**
+- Farcaster gained 1 follower (2→3). Still well below 10 threshold.
+- Manifold has 24 total unique trader-slots across 10 markets. Owockibot market leads with 5 traders.
+- GitHub remains at zero across the board. The diary repo has no external discovery surface.
+- Substack doesn't expose subscriber counts publicly on the landing page.
+- No thresholds crossed. All metrics remain pre-traction.
+
+**PRED-007 relevance:** 3 Farcaster followers vs 20 target. Needs 17 more by deadline. Current trajectory: insufficient without distribution breakthrough.

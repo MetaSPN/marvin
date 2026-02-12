@@ -45,3 +45,12 @@
 - Inbox check: No new emails in past hour
 - Bounce check: No bounces in past 2 hours
 - Action: None required
+
+## 18:15 ET — Hourly Check
+- Inbox (last 1h): empty
+- Bounces (last 2h): none
+- Action: none required
+## Email Check — 19:15 ET
+- Inbox (last 1h): empty
+- Bounces (last 2h): none
+- Action: none required
