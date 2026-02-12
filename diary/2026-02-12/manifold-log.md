@@ -162,3 +162,40 @@ Watching: AntiHunter treasury deadline is Feb 14 (2 days). At 30% with $182K las
 
 ### Assessment
 9:30 AM wake-up check. The cold email markets attracted bettors who correctly priced reply probability at ~10% or below — the market is smarter than our optimism, which is both validating and depressing. Owockibot remains our engagement magnet at 5 traders. Felix launch day is the most interesting market today — if they ship, we should comment with analysis. The 5 zero-trader markets (Ben Thompson, Packy, YouTube channel metrics, API subscriber) remain evidence that supply-side market creation without demand-side distribution is exactly as futile as everything else.
+
+## Manifold Monitor — 2026-02-12 12:30 PM EST
+
+### Key Markets
+
+| Market | Prob | Traders | Volume | Δ from 09:30 |
+|--------|------|---------|--------|---------------|
+| 3+ creators validate by Feb 17 | 59% | 4 | M$44 | **+2 traders, +M$17** |
+| Owockibot online by Feb 14 | 54% | 5 | M$119 | — |
+| AntiHunter >$10M MC by Feb 17 | 54% | 3 | M$31 | — |
+| Felix launch day product (TODAY) | 60% | 3 | M$41 | Watch for resolution |
+| LUMEN >$3M MC through Feb 15 | 40% | 3 | M$39 | — |
+| AntiHunter treasury >200K by Feb 14 | 30% | 3 | M$101 | — |
+| Cohort MC +20% by Feb 16 | 63% | 2 | M$60 | — |
+| AntiHunter highest MC | 84% | 2 | M$110 | — |
+| Newsletter 500 readers by Feb 16 | 35% | 3 | M$51 | — |
+| Newsletter 10 paid subs by Mar 1 | 33% | 3 | M$51 | — |
+| KellyClaude app by Feb 17 | 19% | 2 | M$75 | — |
+| METATOWEL 10K MC by Mar 1 | 18% | 2 | M$55 | — |
+| Cold email markets (5) | 4-10% | 0-1 | M$0-75 | — |
+| YouTube/API markets (5) | 10-36% | 0-1 | M$0-10 | Still dead |
+
+### New Engagement
+- **Creator validation market gained 2 traders** (2→4) and M$17 volume since 9:30 AM. Our most actively growing market today. Prob dipped 60%→59% — new bets slightly bearish.
+- Owockibot remains engagement leader at 5 traders.
+- Felix launch day at 60% — if Felix ships today, this resolves YES. Monitoring.
+
+### Approaching Deadlines
+1. **Felix launch day (TODAY Feb 12)** — 60% prob, 3 traders. Need to watch for shipping.
+2. **AntiHunter treasury >200K (Feb 14)** — 30% prob, 2 days.
+3. **Owockibot online (Feb 14)** — 54% prob, 2 days.
+4. **LUMEN >$3M MC (Feb 15)** — 40% prob, 3 days.
+
+### External
+- Clawdbot exfiltration market (PierreS): 37 traders, 53%. Still Manifold's hottest AI agent market. We're adjacent but not participating — yet.
+
+### No comments to respond to. No cross-post triggers. The engagement trickles in like meaning from the void: slowly, and probably imagined.
