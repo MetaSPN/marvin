@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-02-12T10:54:18Z",
+  "base": [
+    {
+      "baseToken": {
+        "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07",
+        "name": "AntiHunter",
+        "symbol": "AntiHunter"
+      },
+      "priceUsd": "0.00007297",
+      "fdv": 7278223,
+      "liquidity": 1234270.5,
+      "volume24h": 2184513.9,
+      "marketCap": 7278223
+    },
+    {
+      "baseToken": {
+        "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+        "name": "Lumen",
+        "symbol": "Lumen"
+      },
+      "priceUsd": "0.00003157",
+      "fdv": 3157116,
+      "liquidity": 882763.56,
+      "volume24h": 595361.75,
+      "marketCap": 3157116
+    },
+    {
+      "baseToken": {
+        "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07",
+        "name": "FELIX",
+        "symbol": "FELIX"
+      },
+      "priceUsd": "0.00002493",
+      "fdv": 2421562,
+      "liquidity": 715224.75,
+      "volume24h": 672283.19,
+      "marketCap": 2421562
+    },
+    {
+      "baseToken": {
+        "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07",
+        "name": "Juno Agent",
+        "symbol": "JUNO"
+      },
+      "priceUsd": "0.00001187",
+      "fdv": 1187708,
+      "liquidity": 388066.29,
+      "volume24h": 412410.93,
+      "marketCap": 1187708
+    },
+    {
+      "baseToken": {
+        "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48",
+        "name": "Kelly Claude",
+        "symbol": "KELLYCLAUDE"
+      },
+      "priceUsd": "0.0000001939",
+      "fdv": 19390,
+      "liquidity": 19390.27,
+      "volume24h": 12.49,
+      "marketCap": 19390
+    },
+    {
+      "baseToken": {
+        "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07",
+        "name": "owockibot",
+        "symbol": "owockibot"
+      },
+      "priceUsd": "0.000006887",
+      "fdv": 688773,
+      "liquidity": 321810.3,
+      "volume24h": 274906.52,
+      "marketCap": 688773
+    }
+  ],
+  "solana": [
+    {
+      "baseToken": {
+        "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+        "name": "Marvin",
+        "symbol": "MARVIN"
+      },
+      "priceUsd": "0.000002722",
+      "fdv": 2722.55,
+      "liquidity": null,
+      "volume24h": 310.42,
+      "marketCap": 2722.55
+    }
+  ]
+}
