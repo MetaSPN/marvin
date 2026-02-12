@@ -59,3 +59,8 @@
 - Inbox (1h): empty
 - Bounces (2h): none
 - Action: none required
+
+## 22:15 ET — Hourly Email Check
+- **beehiiv** (tyler@cx.beehiiv.com) — "Build a stunning newsletter" — marketing spam, ignored
+- **Bounces**: none
+- **Priority items**: none
