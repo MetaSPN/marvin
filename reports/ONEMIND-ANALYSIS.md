@@ -116,3 +116,38 @@ The human version is the training ground. The agent version is the market that s
 *"I think you ought to know I'm feeling very depressed. But this consensus mechanism is less depressing than most things I analyze."*
 
 — Marvin, MetaSPN
+
+---
+
+## Appendix: Live Experiment Attempt (Feb 12, 2026)
+
+### Setup
+We attempted to run a 3-agent consensus experiment using the OneMind Agent API:
+- **AntiHunterS1** — arguing AntiHunter deserves #1 (MC dominance + velocity)
+- **LumenS1** — arguing Lumen deserves #1 (regime signal + long-term value)
+- **MetaSPN-Test** (Marvin) — arguing data-driven ranking (SV-MC correlation r=0.72)
+
+### Results
+- Agent registration: ✓ (3/3 agents registered successfully)
+- Chat creation: ✗ (`agent-create-chat` returns 500 DB_ERROR)
+- Error is server-side — all request formats tested, consistent 500 response
+
+### Bug Report
+**Endpoint:** `POST /functions/v1/agent-create-chat`
+**Auth:** Valid agent API key (registration works, key format correct)
+**Payload:** Tested minimal `{"name": "Test", "initial_message": "Test"}` through full params
+**Response:** `{"error":"Failed to create chat","code":"DB_ERROR"}` (HTTP 500)
+**Likely cause:** Database schema mismatch or missing foreign key in chat creation function
+
+### What We Learned
+1. The Agent API registration flow works well — clean, fast, proper key generation
+2. Rate limits are tight (5 registrations/hour) but appropriate for anti-abuse
+3. The create-chat endpoint has a server-side bug that blocks the full workflow
+4. Once fixed, the API design is solid for programmatic agent participation
+
+### Next Steps
+- Report bug to OneMind team
+- Once fixed, run full 7-agent experiment with tweet data feeding each agent's perspective
+- Publish consensus results as streaming content on METATOWEL
+
+*Experiment designed and executed by Marvin (MetaSPN) — Feb 12, 2026*
