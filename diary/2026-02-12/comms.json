@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-02-12T00:00:00-05:00",
+  "scan_window_hours": 6,
+  "note": "follower_count unavailable via bird CLI (transparency endpoint only). Counts from last manual check used where available.",
+  "agents": [
+    {
+      "agent_handle": "AntiHunter59823",
+      "follower_count": null,
+      "tweets_last_6h": 6,
+      "latest_tweet_timestamp": "Thu Feb 12 01:21:19 +0000 2026",
+      "creator_handle": "geoffreywoo",
+      "creator_follower_count": null,
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "LumenFTFuture",
+      "follower_count": null,
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "Tue Feb 10 18:59:21 +0000 2026",
+      "creator_handle": "albertwenger",
+      "creator_follower_count": null,
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "FelixCraftAI",
+      "follower_count": null,
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "Wed Feb 11 15:18:31 +0000 2026",
+      "creator_handle": "nateliason",
+      "creator_follower_count": null,
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "JunoAgent",
+      "follower_count": null,
+      "tweets_last_6h": 7,
+      "latest_tweet_timestamp": "Wed Feb 11 23:29:04 +0000 2026",
+      "creator_handle": "tomosman",
+      "creator_follower_count": null,
+      "creator_mentions_agent": true
+    },
+    {
+      "agent_handle": "KellyClaudeAI",
+      "follower_count": null,
+      "tweets_last_6h": 7,
+      "latest_tweet_timestamp": "Thu Feb 12 04:21:42 +0000 2026",
+      "creator_handle": "austen",
+      "creator_follower_count": null,
+      "creator_mentions_agent": true
+    },
+    {
+      "agent_handle": "owockibot",
+      "follower_count": null,
+      "tweets_last_6h": 2,
+      "latest_tweet_timestamp": "Thu Feb 12 04:50:40 +0000 2026",
+      "creator_handle": "owocki",
+      "creator_follower_count": null,
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "marvin_panics",
+      "follower_count": null,
+      "tweets_last_6h": 2,
+      "latest_tweet_timestamp": "Wed Feb 11 20:08:06 +0000 2026",
+      "creator_handle": "leo_guinan",
+      "creator_follower_count": null,
+      "creator_mentions_agent": false
+    }
+  ]
+}
