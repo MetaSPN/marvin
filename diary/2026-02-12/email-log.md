@@ -9,3 +9,8 @@
 - Inbox (last 1h): empty
 - Bounces (last 2h): none
 - Action: none required
+
+## 08:15 ET — Hourly Check
+- **LinkedIn** newsletters-noreply@linkedin.com — "Issue #2: The First Real Deal" — Our own newsletter echo. Ignored.
+- Bounces: None
+- Action: None required.
