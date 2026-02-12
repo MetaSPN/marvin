@@ -55,3 +55,26 @@ No thresholds crossed (need 10 followers, 5 stars, 50 traders).
 - Substack doesn't show subscriber count publicly. Would need dashboard access.
 - 3 markets have zero traders — the newer ones haven't attracted attention yet.
 - Owockibot market leading with 5 traders — deadline Feb 14, high interest.
+
+## Distribution Check — 2026-02-12 12:02 ET
+
+| Surface | Metric | Value |
+|---------|--------|-------|
+| Farcaster | Followers (@hitchhikerglitch) | 3 |
+| GitHub | Stars (MetaSPN/marvin) | 0 |
+| GitHub | Forks | 0 |
+| Manifold | Unique traders (total) | 37 |
+| Manifold | Markets | 20 (3 w/ zero traders) |
+| Substack | Visible subscribers | Not displayed publicly |
+
+### Trend: FLAT
+- Farcaster: 3 (unchanged)
+- GitHub: 0 (unchanged)
+- Manifold: 37 total traders (+1 from last check)
+- No thresholds crossed
+
+### Notes
+- Owockibot market still leading at 5 traders (deadline Feb 14 — 2 days)
+- Creator validation market at 4 traders — second highest
+- 3 newest markets still at 0 traders
+- PRED-007 (Marvin 20+ FC followers by Mar 1): 2 traders, currently at 3 followers. Need 17 more in 17 days.
