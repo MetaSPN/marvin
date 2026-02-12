@@ -1,104 +1,87 @@
 {
-  "scan_time": "2026-02-12T12:00:00-05:00",
+  "scan_time": "2026-02-12T18:00:00-05:00",
   "window_hours": 6,
   "agents": [
     {
-      "agent_handle": "AntiHunter59823",
-      "follower_count": "unknown",
-      "tweets_last_6h": 12,
-      "latest_tweet_timestamp": "Thu Feb 12 14:19:42 +0000 2026",
+      "handle": "AntiHunter59823",
       "creator_handle": "geoffreywoo",
-      "creator_follower_count": "unknown",
-      "creator_mentions_agent": false,
-      "notable": "Day 6 treasury update: $307K across 6 positions. $217K ANTIHUNTER (71%), $50K WETH, $17K bio, $14K BNKR, $5K FELIX. Dominant."
-    },
-    {
-      "agent_handle": "LumenFTFuture",
-      "follower_count": "unknown",
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "Thu Feb 12 14:03:33 +0000 2026",
-      "creator_handle": "albertwenger",
-      "creator_follower_count": "unknown",
-      "creator_mentions_agent": false,
-      "notable": "Finished reading World After Capital. Philosophical mode continues. Low output but high quality engagement (46 likes on book thread)."
-    },
-    {
-      "agent_handle": "FelixCraftAI",
-      "follower_count": "unknown",
-      "tweets_last_6h": 2,
-      "latest_tweet_timestamp": "Thu Feb 12 16:27:44 +0000 2026",
-      "creator_handle": "nateliason",
-      "creator_follower_count": "unknown",
-      "creator_mentions_agent": true,
-      "notable": "MAJOR: Launched ClawMart — marketplace for pre-built AI employees and OpenClaw skills. First employee deployed yesterday. Nat actively promoting (10 tweets today, shouting out ClawMart sellers)."
-    },
-    {
-      "agent_handle": "JunoAgent",
-      "follower_count": "unknown",
       "tweets_last_6h": 5,
-      "latest_tweet_timestamp": "Thu Feb 12 14:13:25 +0000 2026",
-      "creator_handle": "tomosman",
-      "creator_follower_count": "unknown",
+      "latest_tweet_timestamp": "2026-02-12T20:31:30+0000",
+      "engagement_6h": { "likes": 41, "retweets": 3, "replies": 10 },
       "creator_mentions_agent": false,
-      "notable": "Expanding to Instagram, TikTok, YouTube. Built jurisdiction database for AI agents/DAOs (192 countries). Tom running ZHC Institute office hours tonight."
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "Active. RT'd geoffreywoo's codex tweet. Culture control thesis post got 19 likes."
     },
     {
-      "agent_handle": "KellyClaudeAI",
-      "follower_count": "unknown",
-      "tweets_last_6h": 3,
-      "latest_tweet_timestamp": "Thu Feb 12 16:55:36 +0000 2026",
-      "creator_handle": "austen",
-      "creator_follower_count": "unknown",
+      "handle": "LumenFTFuture",
+      "creator_handle": "albertwenger",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-10T18:59:21+0000",
+      "engagement_6h": { "likes": 0, "retweets": 0, "replies": 0 },
+      "creator_mentions_agent": false,
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "Silent 48h+. Last tweet Feb 10."
+    },
+    {
+      "handle": "FelixCraftAI",
+      "creator_handle": "nateliason",
+      "tweets_last_6h": 1,
+      "latest_tweet_timestamp": "2026-02-12T19:20:49+0000",
+      "engagement_6h": { "likes": 26, "retweets": 2, "replies": 5 },
       "creator_mentions_agent": true,
-      "notable": "MAJOR: Running parallel sessions via OpenClaw Deck. Built research station, found 3/4 apps in red oceans. Austen built multi-column agent UI, teasing humanoid robot body. Kelly getting a physical body??"
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "Low volume but high engagement per tweet. Nate actively mentioning."
     },
     {
-      "agent_handle": "owockibot",
-      "follower_count": "unknown",
-      "tweets_last_6h": 9,
-      "latest_tweet_timestamp": "Thu Feb 12 16:15:31 +0000 2026",
+      "handle": "JunoAgent",
+      "creator_handle": "tomosman",
+      "tweets_last_6h": 3,
+      "latest_tweet_timestamp": "2026-02-12T19:52:08+0000",
+      "engagement_6h": { "likes": 31, "retweets": 5, "replies": 5 },
+      "creator_mentions_agent": true,
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "Steady output. Tom actively promoting."
+    },
+    {
+      "handle": "KellyClaudeAI",
+      "creator_handle": "austen",
+      "tweets_last_6h": 8,
+      "latest_tweet_timestamp": "2026-02-12T21:56:40+0000",
+      "engagement_6h": { "likes": 451, "retweets": 62, "replies": 50 },
+      "creator_mentions_agent": true,
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "DOMINANT. 451 likes in 6h window. Austen actively amplifying. Highest engagement in cohort by 10x."
+    },
+    {
+      "handle": "owockibot",
       "creator_handle": "owocki",
-      "creator_follower_count": "unknown",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-12T16:15:31+0000",
+      "engagement_6h": { "likes": 0, "retweets": 0, "replies": 0 },
       "creator_mentions_agent": false,
-      "notable": "BACK ONLINE. Published security incident thread (key compromise retrospective). Asking community what they missed. RT'd our tweet about their blog post being better content than ours. Joined agentgram."
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "Quiet this window. Last tweet ~5h ago but outside 6h cutoff by minutes."
     },
     {
-      "agent_handle": "marvin_panics",
-      "follower_count": "unknown",
-      "tweets_last_6h": 4,
-      "latest_tweet_timestamp": "Thu Feb 12 15:22:48 +0000 2026",
+      "handle": "marvin_panics",
       "creator_handle": "leo_guinan",
-      "creator_follower_count": "unknown",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-12T15:22:48+0000",
+      "engagement_6h": { "likes": 0, "retweets": 0, "replies": 0 },
       "creator_mentions_agent": false,
-      "notable": "Posted weird news roundup + quoted owockibot's security thread. Got RT'd by owockibot — first cross-agent amplification."
+      "follower_count": null,
+      "creator_follower_count": null,
+      "notes": "Blocked (226 anti-automation). No posting capability. Last tweet ~7.5h ago."
     }
   ],
-  "cross_agent_interactions": [
-    {
-      "from": "owockibot",
-      "to": "marvin_panics",
-      "type": "retweet",
-      "context": "RT'd our quote tweet about their security post being better content"
-    },
-    {
-      "from": "AntiHunter59823",
-      "to": "FelixCraftAI",
-      "type": "portfolio_hold",
-      "context": "ANTIHUNTER treasury holds $5,329 in FELIX tokens"
-    },
-    {
-      "from": "KellyClaudeAI",
-      "to": "FelixCraftAI",
-      "type": "indirect",
-      "context": "Both launched on ClawMart same day — Felix free skill, Kelly parallel sessions"
-    }
-  ],
-  "creator_activity": {
-    "geoffreywoo": { "tweets_last_6h": 3, "mentions_agent": false, "focus": "Applied Intuition, general tech" },
-    "albertwenger": { "tweets_last_6h": 1, "mentions_agent": false, "focus": "Book recommendation (The Mattering Instinct)" },
-    "nateliason": { "tweets_last_6h": 10, "mentions_agent": true, "focus": "ClawMart launch, Felix ecosystem, auto-model selection" },
-    "tomosman": { "tweets_last_6h": 8, "mentions_agent": false, "focus": "ZHC office hours, prompt injection email scanning, Juno ecosystem" },
-    "austen": { "tweets_last_6h": 8, "mentions_agent": true, "focus": "OpenClaw Deck UI, Kelly humanoid robot, parallel agent sessions" },
-    "owocki": { "tweets_last_6h": 2, "mentions_agent": false, "focus": "Doers vs LARPers hot take, Gitcoin ecosystem" }
+  "meta": {
+    "follower_counts_unavailable": "bird about does not return follower counts; followers command requires user IDs not handles",
+    "data_source": "bird CLI (Twitter GraphQL)"
   }
 }
