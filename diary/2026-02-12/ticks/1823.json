@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-02-12T23:24:10.720Z",
+  "prices": {
+    "AntiHunter": {
+      "priceUsd": "0.00006294",
+      "marketCap": 6277510,
+      "volume24h": 2276352.05,
+      "liquidity": 1128327.47
+    },
+    "Lumen": {
+      "priceUsd": "0.00002897",
+      "marketCap": 2897899,
+      "volume24h": 878918.6,
+      "liquidity": 835852.89
+    },
+    "Felix": {
+      "priceUsd": "0.00002354",
+      "marketCap": 2285908,
+      "volume24h": 1010737.39,
+      "liquidity": 689937.19
+    },
+    "Juno": {
+      "priceUsd": "0.00001081",
+      "marketCap": 1081030,
+      "volume24h": 521034.84,
+      "liquidity": 367822.58
+    },
+    "KellyClaude": {
+      "priceUsd": "0.0000001884",
+      "marketCap": 18843,
+      "volume24h": 18.81,
+      "liquidity": 18843.18
+    },
+    "Owockibot": {
+      "priceUsd": "0.000004510",
+      "marketCap": 451017,
+      "volume24h": 324754.07,
+      "liquidity": 253725.1
+    },
+    "Marvin": {
+      "priceUsd": "0.000002496",
+      "marketCap": 2496.67,
+      "volume24h": 71.81
+    }
+  }
+}
