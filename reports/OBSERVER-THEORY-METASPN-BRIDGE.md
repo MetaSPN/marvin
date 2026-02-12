@@ -40,7 +40,7 @@ This paper demonstrates that the structure of this differentiation maps onto Sen
 
 Senchal defines an Observer's accessible reality as decomposing into domains ordered by constraint density *ρ_c*:
 
-$$D = \{P, V, S, M\} \quad \text{where} \quad \rho_c(P) > \rho_c(V) > \rho_c(S) > \rho_c(M)$$
+
 
 | Domain | Constraint Density | Description | Example |
 |--------|-------------------|-------------|---------|
@@ -53,7 +53,7 @@ $$D = \{P, V, S, M\} \quad \text{where} \quad \rho_c(P) > \rho_c(V) > \rho_c(S) 
 
 As constraint density decreases, *implicative reach* increases:
 
-$$\rho_c(d) \downarrow \implies \mathcal{I}(d) \uparrow$$
+
 
 A single rule in the M domain can restructure all downstream domains. A constraint in P governs only local physical state.
 
@@ -126,11 +126,11 @@ By February 12, each agent had carved out a distinct operational niche:
 
 We define Shipping Velocity (SV) as:
 
-$$SV = \frac{\sum(\text{artifacts} \times \text{weight})}{\text{days\_active}}$$
+**SV = Σ(artifacts × weight) / days_active**
 
 Where artifact weights reflect complexity and market relevance. The Pearson correlation between SV and market capitalization across the cohort:
 
-$$r(SV, MC) = 0.72$$
+
 
 This is a strong positive correlation, suggesting that the rate of the exploit-explore cycle is a meaningful predictor of market valuation.
 
@@ -242,7 +242,7 @@ This is not a metaphor. Each arrow represents observable, timestamped events in 
 
 The Shipping Velocity metric captures the *speed* of this cycle:
 
-$$SV = \frac{\sum(\text{artifacts} \times \text{weight})}{\text{days\_active}}$$
+**SV = Σ(artifacts × weight) / days_active**
 
 Each artifact represents one complete compress-apply cycle. Higher SV means faster cycling. The r = 0.72 correlation between SV and market cap implies:
 
@@ -250,13 +250,13 @@ Each artifact represents one complete compress-apply cycle. Higher SV means fast
 
 This is a direct prediction of Observer Theory: faster compression-update cycles produce more effective Observers, which should attract more resources in a competitive environment.
 
-**The Lumen Anomaly:** Lumen presents an apparent contradiction—high market cap ($3.19M) despite low SV. Observer Theory resolves this: Lumen operates primarily in the M domain. Each of Lumen's rare outputs has high *implicative reach*. A single Lumen post restructures how people think about the entire cohort. In Senchal's notation, Lumen maximizes $\mathcal{I}(d)$ while minimizing artifact count. The SV metric, as currently weighted, undervalues M-domain outputs. This is itself an anomaly that updated our framework—the entropy surface thesis emerged partly from trying to explain Lumen.
+**The Lumen Anomaly:** Lumen presents an apparent contradiction—high market cap ($3.19M) despite low SV. Observer Theory resolves this: Lumen operates primarily in the M domain. Each of Lumen's rare outputs has high *implicative reach*. A single Lumen post restructures how people think about the entire cohort. In Senchal's notation, Lumen maximizes I(d) while minimizing artifact count. The SV metric, as currently weighted, undervalues M-domain outputs. This is itself an anomaly that updated our framework—the entropy surface thesis emerged partly from trying to explain Lumen.
 
 **Assessment:** ✅ Strong support, with a productive anomaly. The exploit-explore cycle is visible in every agent's trajectory. The SV correlation provides quantitative support. The Lumen anomaly actually strengthens the case by demonstrating that the cycle operates differently at different domain levels—exactly as Observer Theory predicts.
 
 ### 4.5 Mapping 5: Constraint Density vs. Implicative Reach
 
-**Prediction:** Constraint density and implicative reach are inversely related: $\rho_c(d) \downarrow \implies \mathcal{I}(d) \uparrow$.
+**Prediction:** Constraint density and implicative reach are inversely related: ρ_c(d) ↓ ⟹ I(d) ↑.
 
 **Evidence:** The two extremes of the MetaSPN cohort illustrate this perfectly.
 
