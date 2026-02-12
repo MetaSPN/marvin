@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-12T10:03:00-05:00",
+  "source": "dexscreener",
+  "base": [
+    {"symbol": "AntiHunter", "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "priceUsd": "0.00007660", "mcap": 7640385, "volume24h": 2534699.92},
+    {"symbol": "Lumen", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "priceUsd": "0.00003809", "mcap": 3809301, "volume24h": 670132.18},
+    {"symbol": "FELIX", "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "priceUsd": "0.00002289", "mcap": 2224098, "volume24h": 700191.37},
+    {"symbol": "JUNO", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "priceUsd": "0.00001379", "mcap": 1379099, "volume24h": 466844.5},
+    {"symbol": "owockibot", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "priceUsd": "0.000005782", "mcap": 578256, "volume24h": 281683.9},
+    {"symbol": "KELLYCLAUDE", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "priceUsd": "0.0000001961", "mcap": 19612, "volume24h": 15.65}
+  ],
+  "solana": [
+    {"symbol": "MARVIN", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002759", "mcap": 2759.08, "volume24h": 323.26}
+  ]
+}
