@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-12T11:53:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": { "price": "0.00007049", "mc": 7030865, "vol24h": 2411447.74, "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "chain": "base" },
+    "Lumen": { "price": "0.00003683", "mc": 3683347, "vol24h": 760020.06, "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base" },
+    "Felix": { "price": "0.00002574", "mc": 2500401, "vol24h": 835537.38, "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "chain": "base" },
+    "Juno": { "price": "0.00001270", "mc": 1270179, "vol24h": 470802.67, "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base" },
+    "KellyClaude": { "price": "0.0000001961", "mc": 19612, "vol24h": 15.65, "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base" },
+    "Owockibot": { "price": "0.000005082", "mc": 508290, "vol24h": 303715.96, "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base" },
+    "Marvin": { "price": "0.000002759", "mc": 2759.08, "vol24h": 322.78, "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana" }
+  }
+}
