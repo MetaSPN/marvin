@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-12T16:43:00-05:00",
+  "tokens": [
+    {"symbol": "AntiHunter", "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "chain": "base", "price": "0.00006800", "mc": 6782008, "volume24h": 2183077.43},
+    {"symbol": "Lumen", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base", "price": "0.00003055", "mc": 3055015, "volume24h": 864780.20},
+    {"symbol": "FELIX", "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "chain": "base", "price": "0.00002638", "mc": 2562266, "volume24h": 982356.47},
+    {"symbol": "JUNO", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base", "price": "0.00001101", "mc": 1100994, "volume24h": 512276.97},
+    {"symbol": "owockibot", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base", "price": "0.000004368", "mc": 436855, "volume24h": 326397.02},
+    {"symbol": "KELLYCLAUDE", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base", "price": "0.0000001884", "mc": 18843, "volume24h": 18.81},
+    {"symbol": "MARVIN", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "price": "0.000002529", "mc": 2529.57, "volume24h": 129.47}
+  ]
+}
