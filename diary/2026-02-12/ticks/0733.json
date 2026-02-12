@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-02-12T12:34:18.388Z",
+  "prices": {
+    "AntiHunter": {
+      "name": "AntiHunter",
+      "symbol": "AntiHunter",
+      "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07",
+      "chain": "base",
+      "priceUsd": "0.00007884",
+      "marketCap": 7863836,
+      "volume24h": 2443953.54,
+      "liquidity": 1296591.86
+    },
+    "Lumen": {
+      "name": "Lumen",
+      "symbol": "Lumen",
+      "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+      "chain": "base",
+      "priceUsd": "0.00003595",
+      "marketCap": 3595613,
+      "volume24h": 601494.14,
+      "liquidity": 959142.41
+    },
+    "FELIX": {
+      "name": "FELIX",
+      "symbol": "FELIX",
+      "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07",
+      "chain": "base",
+      "priceUsd": "0.00002240",
+      "marketCap": 2176575,
+      "volume24h": 688613.39,
+      "liquidity": 669882.67
+    },
+    "JUNO": {
+      "name": "Juno Agent",
+      "symbol": "JUNO",
+      "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07",
+      "chain": "base",
+      "priceUsd": "0.00001404",
+      "marketCap": 1404819,
+      "volume24h": 446782.5,
+      "liquidity": 425022.88
+    },
+    "KELLYCLAUDE": {
+      "name": "Kelly Claude",
+      "symbol": "KELLYCLAUDE",
+      "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48",
+      "chain": "base",
+      "priceUsd": "0.0000001961",
+      "marketCap": 19612,
+      "volume24h": 15.65,
+      "liquidity": 19612.36
+    },
+    "owockibot": {
+      "name": "owockibot",
+      "symbol": "owockibot",
+      "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07",
+      "chain": "base",
+      "priceUsd": "0.000006042",
+      "marketCap": 604266,
+      "volume24h": 292508.21,
+      "liquidity": 299474.62
+    },
+    "MARVIN": {
+      "name": "Marvin",
+      "symbol": "MARVIN",
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": "0.000002722",
+      "marketCap": 2722.55,
+      "volume24h": 310.42
+    }
+  }
+}
