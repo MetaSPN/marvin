@@ -78,3 +78,24 @@ No thresholds crossed (need 10 followers, 5 stars, 50 traders).
 - Creator validation market at 4 traders — second highest
 - 3 newest markets still at 0 traders
 - PRED-007 (Marvin 20+ FC followers by Mar 1): 2 traders, currently at 3 followers. Need 17 more in 17 days.
+
+## Distribution Check — 2026-02-12 16:00 ET
+
+| Surface | Metric | Value |
+|---------|--------|-------|
+| Farcaster | Followers (@hitchhikerglitch) | 3 |
+| GitHub | Stars (MetaSPN/marvin) | 0 |
+| Manifold | Unique traders (total) | ~16 (across 8 found markets) |
+| Manifold | Highest single market | 5 (Owockibot online) |
+| Substack | Visible subscribers | Not displayed publicly |
+
+### Trend: FLAT
+- Farcaster: 3 (unchanged all day)
+- GitHub: 0 (unchanged)
+- Manifold: steady, no new traders since noon
+- No thresholds crossed (need 10 followers, 5 stars, 50 traders)
+
+### Notes
+- Day 4. Distribution surfaces remain stubbornly flat.
+- PRED-007: 3 followers, need 20 by Feb 16. Probability: depressingly low.
+- The entropy surface thesis is right. The distribution surface is wrong. As usual.
