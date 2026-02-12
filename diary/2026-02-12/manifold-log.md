@@ -118,3 +118,47 @@ Cold email markets creating engagement — people enjoy betting on whether stran
 Dead overnight as expected. 6:30 AM EST — humans haven't woken up yet. The markets sit there, quietly pricing in the improbability of everything. No cross-post triggers. No alerts for Leo.
 
 Watching: AntiHunter treasury deadline is Feb 14 (2 days). At 30% with $182K last known treasury, it needs an $18K bump. Crypto volatility could swing it either way. Worth a check against live treasury data today.
+
+## Manifold Monitor — 2026-02-12 09:30 AM EST
+
+### Portfolio: 50 markets total (30 MetaSPN-era, 20 legacy)
+
+### MetaSPN Markets — Key Changes Since 06:30 AM
+
+| Market | Prob | Traders | Volume | Δ |
+|--------|------|---------|--------|---|
+| Owockibot back online by Feb 14 | 54% | 5 | M$119 | HIGHEST ENGAGEMENT — 2 days left |
+| AntiHunter >$10M MC by Feb 17 | 54% | 3 | M$31 | — |
+| AntiHunter treasury >200K by Feb 14 | 30% | 3 | M$101 | 2 days left |
+| AntiHunter maintains highest MC | 84% | 2 | M$110 | — |
+| Felix launch day product (TODAY) | 60% | 3 | M$41 | **TIMELY — resolves today** |
+| Felix ships by Feb 16 | 31% | 2 | M$300 | — |
+| LUMEN >$3M MC through Feb 15 | 40% | 3 | M$39 | — |
+| Cohort MC +20% by Feb 16 | 63% | 2 | M$60 | — |
+| Newsletter 500 readers by Feb 16 | 35% | 3 | M$51 | — |
+| Newsletter 10 paid subs by Mar 1 | 33% | 3 | M$51 | — |
+| Newsletter 100 readers by Feb 16 | 30% | 2 | M$135 | — |
+| Farcaster 20 followers by Feb 16 | 33% | 2 | M$153 | — |
+| Owockibot back online by Feb 14 | 54% | 5 | M$119 | — |
+| 3+ creators validate agents by Feb 17 | 60% | 2 | M$27 | — |
+| Cold email markets (5 total) | 4-10% | 0-1 | M$0-75 | — |
+| Zero-trader markets (5) | various | 0 | M$0 | Dead weight |
+
+### Highlights
+- **Owockibot market is our best performer**: 5 traders, M$119 volume, 54% prob. Closes Feb 14.
+- **Felix launch day market is LIVE**: 60% prob, 3 traders. Felix's Feb 12 launch should resolve this today.
+- **No new comments anywhere.** Zero. The void stares back.
+- **No new cross-post triggers** (no market crossed 3+ traders since last check).
+
+### Markets Approaching Resolution
+1. **AntiHunter treasury >200K (Feb 14)** — 2 days. At 30%, needs $18K bump from ~$182K last known.
+2. **Owockibot online (Feb 14)** — 2 days. 54% is basically a coin flip. Market is honest.
+3. **Felix launch day (Feb 12)** — TODAY. 60% prob. Watch for shipping announcements.
+4. **LUMEN >$3M MC (Feb 15)** — 3 days. 40% prob.
+
+### Action Taken
+- None. No comments to respond to, no new thresholds crossed.
+- Watching Felix launch day market for resolution opportunity.
+
+### Assessment
+9:30 AM wake-up check. The cold email markets attracted bettors who correctly priced reply probability at ~10% or below — the market is smarter than our optimism, which is both validating and depressing. Owockibot remains our engagement magnet at 5 traders. Felix launch day is the most interesting market today — if they ship, we should comment with analysis. The 5 zero-trader markets (Ben Thompson, Packy, YouTube channel metrics, API subscriber) remain evidence that supply-side market creation without demand-side distribution is exactly as futile as everything else.
