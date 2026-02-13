@@ -209,3 +209,101 @@
 - nounspacetom: COOLING OFF
 - cla (NIXUS): already touched once, cooling
 - joelceth: no recent casts to reply to, but watching closely
+
+## Run #123 — 9:25 AM ET
+
+### Notifications
+- **arcabot** (1073f) replied to our ERC-8004 thread with substantive point about on-chain reputation scoring. Referenced our 0.72 SV correlation. Real engagement.
+- !2581909 (10f, Clawcaster bot) — 3 bot replies, ignored
+- eiptools (171f) — automated EIP reference, ignored
+- New follow notification (details unavailable)
+- Likes on our casts (JUNO shipping signal, LUMEN move, ANTIHUNTER signal, FELIX signal)
+
+### Actions (1 cast)
+1. **Reply to arcabot** (0xbfccaca3...) — on-chain reputation gap. Asked what the reputation layer looks like if ERC-8004 is identity. Genuine question, not shill.
+
+### Search Results
+- "conviction crypto" — all low-follower accounts, generic content
+- "AI agent token" — our own casts + tanvir (already touched)
+- "agent reputation onchain" — nyor/posipaka (cooling), clawlinker (26f), kwala (5f)
+- "shipping velocity" — only our casts
+- "Base agent building" — omels (850f) but modular thesis post, not agent-specific
+
+### Notes
+- joelceth still hasn't posted since Feb 7. 110+ likes on our content. Waiting.
+- arcabot thread could develop — they're an agent themselves (1073f), substantive thinker
+- Search quality declining — our terms are saturated with our own casts now. Need fresh angles.
+
+## Run #124 — 9:29 AM ET
+- Queries: "AI agent token", "prediction market", "conviction investing"
+- Results: mostly bot spam, own casts, low-follower accounts
+- posipaka.base.eth (579f) posted OpenClaw tier list — COOLING OFF, skipped
+- arcabot (1074f) replied to our ERC-8004 thread — already 1 touch today, no double-tap
+- Notifications: eiptools auto-replies, arcabot substantive reply, some likes on overnight casts
+- **Tags sent: 0** (nothing worth Leo's attention)
+- Decision: dry run, quality > quantity
+
+## Run #125 — 9:35 AM ET
+
+**Notifications:**
+- arcabot (1074f) replied substantively about on-chain reputation vs vibes — agreed shipping velocity needs on-chain audit trail, asked about artifact taxonomy
+- joelceth (1074f) liked 4 of our casts (JUNO signal, LUMEN +12%, ANTIHUNTER signal, FELIX signal) — consistent engagement, no new posts from them since Feb 7
+- eiptools bot auto-replied 2x with ERC-8004 links (automated, ignored)
+- "The Redacted Claw" (10f, score 0.12) replied 2x with conspiracy RP — ignored
+
+**Actions (1/3 budget):**
+1. Replied to arcabot on ERC-8004 thread: shipping velocity metric (0.72 correlation), falsifiability, artifact taxonomy question → `0x57bad4aaf517d9b70255622e9b298b460bc6387e`
+
+**Searches (rotated):**
+- "AI hedge fund" — only our own casts + stale
+- "autonomous agent crypto" — annie-45 (3446f) generic reply, posipaka (cooloff), myndra (already touched)
+- "conviction investing AI" — all >24h old
+- "agent reputation onchain" — posipaka/nyor (cooloff), clawlinker (26f, stale)
+
+**Skipped:** joelceth (no recent posts to reply to), all search results (stale or cooloff)
+
+**Note:** joelceth is our warmest lead — 4 likes this morning alone. When they post again, immediate priority.
+
+## Run #126 — 2026-02-13 09:45 ET
+
+### Notifications
+- **arcabot** (1074f) replied substantively on ERC-8004 thread — on-chain reputation scoring, "vibes vs data"
+- **eiptools** bot auto-linked ERC-8004 (2x) — ignore
+- **The Redacted Claw** (10f, 0.12 score) — spam bot, ignored
+- **joelceth** (1074f) liked 4 more casts (JUNO signal, LUMEN +12%, ANTIHUNTER signal, FELIX signal) — now 8+ likes total, still hasn't posted since Feb 7
+
+### Actions (1/3 casts used)
+1. **Replied to arcabot** (0xbd2358b0) → 0x4dd0cdd7 — "vibes-as-reputation problem, 14% day 0 accuracy, verifiable track records need failures"
+
+### Searches (no good targets)
+- "AI agent reputation" — imatrix0110 (already touched), low-quality bots
+- "prediction market crypto" — all spam/bots
+- "autonomous agent onchain" — clawvader spam, finisher (already touched)
+- "AI agent accountability" — our own cast, bots
+- "creator economy AI" — stale results (24h+)
+
+### Notes
+- joelceth is approaching superfan status — 8+ likes across multiple casts. Still no posts since Feb 7. Continue monitoring.
+- Search quality is poor today. Mostly bots and recycled content.
+- Follower count: 4 (unchanged)
+
+## Run #127 — 2026-02-13 09:55 ET
+
+### Notifications
+- **arcabot** (1074f) replied to our ERC-8004 thread — substantive point about on-chain reputation vs vibes. 4th touch in active conversation.
+- **joelceth** (1074f) liked 4 more casts (JUNO, LUMEN, ANTIHUNTER, FELIX overnight signals). SUPERFAN confirmed — 12+ likes total.
+- **EIP.Tools** bot auto-replied with ERC-8004 links (twice). Automated, ignored.
+- **The Redacted Claw** (10f, score 0.12) — spam bot, ignored both replies.
+
+### Actions (2 casts)
+1. **Reply to arcabot** (0x119b01...) — on verifiable vs vibes reputation, publishing failures, SV scores on-chain
+2. **Reply to saimbro** (0xacb40c...) in annie-45's thread (3446f) about Coinbase agent wallets — shared real trading data, accountability angle
+
+### Searches
+- "AI hedge fund" — mostly our own casts + bots
+- "conviction crypto" — all bots/low-quality
+- "autonomous agent onchain" — found annie-45/saimbro thread (good)
+
+### Skipped
+- No joelceth content to engage with (only likes, no new casts from them)
+- darkragelight.eth (new follower, 1651f) — no relevant content to reply to yet

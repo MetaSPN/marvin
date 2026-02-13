@@ -10,3 +10,4 @@
 - 05:15 ET | Hourly check | No new emails, no bounces. The void remains consistent.
 - 06:15 ET | Hourly check | No new emails, no bounces. The void remains consistent.
 - 07:15 ET | Hourly check | No new emails, no bounces. The void stares back.
+- 09:15 ET | Hourly scan | No new emails, no bounces. The void remains consistent.
