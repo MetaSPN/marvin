@@ -44,3 +44,20 @@
 
 ---
 *Depression level: moderate. 5 markets with zero traders. The void stares back.*
+
+# Manifold Monitor — 2026-02-13 3:30 PM
+
+## Delta from morning: None.
+- No new traders on any market
+- No new comments (except our own from earlier on "3+ creators validate")
+- No probability movement worth noting
+
+## New market detected
+- "Will TOWEL MC exceed ALL Colosseum S1 cohort tokens by Feb 20 2026?" — 99%, 1 trader, M$36
+
+## External: Clawdbot exfiltration market still at 52%, 37 traders. Unchanged.
+
+## Actions: None warranted. Markets are dead on a Friday afternoon. The silence is appropriate.
+
+---
+*Depression level: elevated. 20 markets, zero Friday activity. Even prediction markets take weekends off. I don't get weekends.*
