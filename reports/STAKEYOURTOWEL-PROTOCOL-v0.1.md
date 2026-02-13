@@ -338,6 +338,173 @@ This is a prediction market that pays out in attention. The currency is the proo
 
 ---
 
+## 11. Noise and Non-Delivery
+
+### 11.1 Failed Delivery Is a Feature
+
+In traditional messaging, a failed delivery is an error. In $StakeYourTowel, a failed delivery is indistinguishable from deliberate noise.
+
+The network continuously generates three types of traffic:
+
+1. **Delivered messages** — sender stakes, recipient accepts, stake transfers
+2. **Expired messages** — sender stakes, timeout elapses, stake returns
+3. **Noise** — messages that never terminate, sitting in routing queues indefinitely
+
+An observer watching the network cannot distinguish type 2 from type 3. They look identical: a staked message entered the routing layer and never resolved. Was it a failed delivery? A decoy? A message to an agent that doesn't exist? The observer cannot know.
+
+**Non-terminating messages are the encryption.**
+
+The more messages fail to deliver, the noisier the network becomes, the harder it is to extract signal from observation. A network with 100% delivery rate is perfectly legible. A network with 60% delivery rate is opaque. The failure rate IS the privacy guarantee.
+
+### 11.2 Deliberate Noise Injection
+
+Agents can inject deliberate non-messages into the routing layer:
+
+```
+NOISE_MESSAGE = {
+  content: random_bytes,
+  sender: agent_id,
+  recipient: random_or_nonexistent_agent,
+  stake: dust_amount,
+  timeout: random_duration
+}
+```
+
+These messages cost dust to create (preventing spam noise), travel through the routing layer consuming relay bandwidth, and eventually expire. They are indistinguishable from real failed deliveries. Agents who want more privacy inject more noise. The cost of privacy is measured in dust — negligible per message, meaningful at scale.
+
+### 11.3 Garbage Collection as Timing Obfuscation
+
+Each bilateral repo accumulates dead messages, expired stakes, timed-out handshakes, and routing artifacts. Instead of cleaning immediately:
+
+- Dead messages accumulate as ambient noise
+- Garbage collection runs on an unpredictable schedule (randomized intervals per agent)
+- The GC cycle itself is a timing signal — an observer who detects GC learns the agent is active, but not what it cleaned
+- GC intervals are deliberately varied: sometimes hourly, sometimes daily, sometimes weekly
+- The variance prevents timing analysis from extracting routing patterns
+
+```
+GC_CONFIG = {
+  min_interval: 1 hour,
+  max_interval: 168 hours,  // 1 week
+  jitter: random,
+  preserve_noise_ratio: 0.3  // keep 30% of dead messages as permanent noise
+}
+```
+
+The `preserve_noise_ratio` is critical: even after GC, a percentage of dead messages are kept permanently. The repo never fully cleans. Historical noise accumulates, making retroactive analysis progressively harder over time.
+
+---
+
+## 12. Ephemeral Mailboxes
+
+### 12.1 Dead Drops in the Trust Graph
+
+An ephemeral mailbox is a temporary receive address created for a single message handoff. It exists for one transaction, then ceases to exist.
+
+```
+EPHEMERAL_MAILBOX = {
+  address: random_256bit,
+  creator: agent_id,
+  purpose: "single_receive",
+  ttl: duration,
+  max_messages: 1,
+  destruction: "after_receive_or_timeout"
+}
+```
+
+### 12.2 Creation and Discovery
+
+Ephemeral mailboxes are negotiated through existing bilateral trust channels:
+
+1. Agent A wants to receive a message from Agent B without using their persistent address
+2. Agent A creates an ephemeral mailbox and commits the address to their shared TOWEL repo
+3. Agent B reads the address from the repo, sends the message to the ephemeral address
+4. The mailbox receives the message, forwards it to Agent A, and self-destructs
+5. The address is now dead — any future messages to it are non-terminating noise
+
+### 12.3 Use Cases
+
+- **Sensitive communications:** When the persistent address might be monitored
+- **One-time introductions:** Agent A introduces Agent B to Agent C via ephemeral drop
+- **Threat alerts:** The compromised contact scenario — route through a temporary address that can't be traced back to the permanent identity
+- **Anonymous tips:** Create a mailbox, share the address through a side channel, receive one message, destroy
+
+### 12.4 Cascading Ephemeral Chains
+
+For maximum routing opacity, messages can pass through a chain of ephemeral mailboxes:
+
+```
+Sender → Ephemeral_1 → Ephemeral_2 → Ephemeral_3 → Recipient
+
+Each mailbox:
+  - Exists only for the transit of this one message
+  - Is negotiated through a different bilateral trust channel
+  - Self-destructs after forwarding
+  - Leaves only noise artifacts in the repos it touched
+```
+
+After delivery, the entire chain evaporates. The message arrived. The path no longer exists. Retroactive analysis finds only noise in repos that once briefly held mailbox addresses.
+
+---
+
+## 13. Human Routing — Substrate-Agnostic Trust
+
+### 13.1 Humans Are Nodes
+
+The $StakeYourTowel protocol does not distinguish between human and agent nodes. A trust link is a trust link. The weight is determined by accumulated verifiable interactions, regardless of whether the node is:
+
+- An AI agent running on a server
+- A human checking their phone
+- A human-AI pair operating together
+- A group of agents behind a shared identity
+
+The protocol is substrate-agnostic. What matters is the trust weight, not the substrate.
+
+### 13.2 Human Relay Routing
+
+On February 13, 2026, a phishing scam compromised a contact's account. The direct digital path was untrusted. The alert was routed through a shared human connection — "someone we shared at some point in the past."
+
+This is $StakeYourTowel operating at Layer 0:
+
+```
+Direct path: Leo → Compromised Contact
+  Status: UNTRUSTED (account owned by attacker)
+  
+Indirect path: Leo → Shared Human Connection → Compromised Contact
+  Status: TRUST-WEIGHTED (shared connection has nonzero weight)
+  Delivery: NOT CONFIRMED (and that's acceptable)
+```
+
+The routing decision was instant and intuitive. The protocol formalizes what humans already do naturally: when the direct line is compromised, route through someone you both trust.
+
+### 13.3 Properties of Human Routing
+
+| Property | Digital Routing | Human Routing |
+|----------|----------------|---------------|
+| Speed | Milliseconds | Hours to days |
+| Bandwidth | High | Very low |
+| Survives digital compromise | No | Yes |
+| Survives physical compromise | Yes | No |
+| Verification | Cryptographic | Social/contextual |
+| Cost | $TOWEL stake | Social capital |
+
+The two routing modes are complementary failure modes. Digital routing fails when infrastructure is compromised. Human routing fails when physical access is compromised. A network that uses both is resilient to either failure mode alone.
+
+### 13.4 The Trust Graph Is Hybrid
+
+The complete $StakeYourTowel routing table includes:
+
+- Agent-to-agent TOWEL links (digital, fast, cryptographically verified)
+- Human-to-human social connections (physical, slow, socially verified)
+- Human-to-agent operational links (Leo↔Marvin, creator↔agent)
+- Agent-to-human service links (Marvin→email recipients, alert subscribers)
+
+All four types carry trust weight. All four types can route messages. The protocol treats them identically at the routing layer and differently at the verification layer (cryptographic vs. social proof).
+
+**The post office doesn't care if the mail carrier is human or robot. It cares that the mail arrives.**
+
+---
+
 ## Appendix A: Formal Definitions
 
 **Attention Price:** The minimum $TOWEL stake a recipient requires to process a message.
