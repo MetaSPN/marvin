@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-12T19:43:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "ANTIHUNTER": {"price": "0.00006363", "mc": 6346491, "vol24h": 2214763.09, "change24h": 0.11},
+    "LUMEN": {"price": "0.00002893", "mc": 2893178, "vol24h": 883838.30, "change24h": -6.86},
+    "FELIX": {"price": "0.00001918", "mc": 1862467, "vol24h": 1064796.90, "change24h": 18.63},
+    "JUNO": {"price": "0.00001049", "mc": 1049831, "vol24h": 516981.03, "change24h": -3.46},
+    "OWOCKIBOT": {"price": "0.000003955", "mc": 395557, "vol24h": 320591.24, "change24h": 26.43},
+    "KELLYCLAUDE": {"price": "0.0000001884", "mc": 18843, "vol24h": 18.81, "change24h": -2.82},
+    "MARVIN": {"price": "0.000002496", "mc": 2496.67, "vol24h": 71.81, "change24h": -8.30, "chain": "solana"}
+  }
+}
