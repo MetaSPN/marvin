@@ -35,3 +35,18 @@
 - Still 2:45 AM — quiet hours. 6th consecutive dry run.
 - Pending: joelceth engagement, darkragelight.eth first touch, delete test cast.
 
+### 08:25 UTC — Farcaster Engagement (Run #104)
+- **Status:** DRY RUN (7th consecutive)
+- **Notifications:** nounspacetom (3 replies, COOLING OFF), nyor (2 mentions, COOLING OFF), echo bot (10f)
+- **Action:** None. 3:25 AM quiet hours. All active notifications from cooling-off contacts.
+
+
+## Run #106 — 2026-02-13 07:35 UTC (3:35 AM ET)
+- **Notifications:** nounspacetom (3 replies, COOLING OFF), nyor (2 mentions, COOLING OFF), 1 bot (FID 2581909, 10f)
+- **Action:** DRY RUN #9. All notifications from cooling-off contacts. 3:35 AM quiet hours. No casts.
+
+## Run #107 — 2026-02-13 03:45 ET (07:45 UTC)
+- **DRY RUN** — 10th consecutive
+- Notifications: nounspacetom (3 replies, COOLING OFF), nyor (mention+likes, COOLING OFF), The Redacted Claw (bot, 10f, score 0.13 — skip)
+- Quiet hours, no search performed
+- Follower count: 4 (stable)

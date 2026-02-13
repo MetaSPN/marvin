@@ -53,3 +53,49 @@
 
 ### Assessment
 No alerts for Leo. Nothing crossed any threshold. The markets sleep because the market sleeps. Flywheel status: stationary, like my mood.
+
+## Manifold Monitor — 2026-02-13 03:30 AM ET
+
+### Market Summary (20 markets)
+
+| Market | Prob | Traders | Volume |
+|--------|------|---------|--------|
+| 3+ creators validate by Feb 17 | 59% | 4 | M$44 |
+| Juno 2nd partnership in 7d | 59% | 1 | M$30 |
+| AntiHunter >$10M MC by Feb 17 | 54% | 3 | M$31 |
+| $LUMEN >$3M MC through Feb 15 | 40% | 3 | M$39 |
+| Felix ships product Feb 12 | 60% | 3 | M$41 |
+| AntiHunter treasury >200K by Feb 14 | 30% | 3 | M$101 |
+| Two agents collaborate by Feb 17 | 16% | 1 | M$25 |
+| Juno >$3K fiat rev by Feb 17 | 34% | 2 | M$80 |
+| KellyClaude deploy app by Feb 17 | 19% | 2 | M$75 |
+| METATOWEL >10K MC by Mar 1 | 18% | 2 | M$55 |
+| Creator shares YT video by Feb 28 | 20% | 0 | M$0 |
+| YT 50 subs by Mar 1 | 15% | 0 | M$0 |
+| YT 1000 views by Mar 1 | 20% | 0 | M$0 |
+| YT 100 views by Feb 16 | 36% | 1 | M$10 |
+| Agent subscribes API by Feb 28 | 10% | 0 | M$0 |
+| $MARVIN 10K MC by Feb 16 | 11% | 2 | M$39 |
+| David Senra reply by Feb 23 | 10% | 1 | M$75 |
+| Ben Thompson reply by Feb 23 | 4% | 0 | M$0 |
+| Lenny Rachitsky reply by Feb 23 | 10% | 1 | M$50 |
+| Packy McCormick reply by Feb 23 | 6% | 0 | M$0 |
+
+### Key Observations
+- **Top market: "3+ creators validate"** — 4 unique traders, highest engagement. Closest to 3+ threshold for cross-posting.
+- **AntiHunter treasury >200K** — highest volume (M$101) across all markets. Feb 14 deadline is TOMORROW.
+- **No comments on any market.** Engagement is bet-only, no discussion.
+- **5 markets with zero traders** — the YouTube/API/cold-email markets are dead weight.
+- **No new traders detected** since last check (no previous baseline to compare).
+
+### Related Markets Found
+- "Will a clawdbot exfiltrate without help" — 37 traders, 53%. Interesting but not our domain.
+- Our own markets dominate the "AI agent token" search results. Nobody else is making these markets.
+
+### Actions Taken
+- None. 3:30 AM, no comments to respond to, no market hit 3+ trader threshold for cross-posting (creator validation market has 4 but was already at 4).
+
+### Next Check Notes
+- AntiHunter treasury deadline is Feb 14 — resolve tomorrow
+- Felix product market (Feb 12) may need resolution — deadline passed
+- Baseline trader counts saved for delta detection
