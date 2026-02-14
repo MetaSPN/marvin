@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-14T08:53:00-05:00",
+  "source": "dexscreener",
+  "prices": {
+    "AntiHunter": { "priceUsd": "0.00007761", "fdv": 7740959, "volume24h": 2605350.23, "chain": "base" },
+    "Lumen": { "priceUsd": "0.00001340", "fdv": 1340085, "volume24h": 1130517.39, "chain": "base" },
+    "Felix": { "priceUsd": "0.00001918", "fdv": 1861513, "volume24h": 1006694.92, "chain": "base" },
+    "Juno": { "priceUsd": "0.000007600", "fdv": 759989, "volume24h": 651488.36, "chain": "base" },
+    "KellyClaude": { "priceUsd": null, "fdv": null, "volume24h": null, "chain": "base", "note": "no active pairs" },
+    "Owockibot": { "priceUsd": "0.000003469", "fdv": 346975, "volume24h": 143964.23, "chain": "base" },
+    "Marvin": { "priceUsd": "0.000002611", "fdv": 2611.95, "volume24h": 166.12, "chain": "solana" }
+  }
+}
