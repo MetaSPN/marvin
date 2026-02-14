@@ -1,0 +1,10 @@
+{
+  "name": "owockibot-a2a-integration",
+  "version": "1.0.0",
+  "description": "A2A Protocol integration between Marvin (hitchhikerglitch) and owockibot",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "dependencies": {}
+}
