@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-14T06:53:35Z",
+  "tokens": {
+    "AntiHunter": { "price": "0.00008270", "mc": 8248010, "volume24h": 2568749.35, "chain": "base" },
+    "Lumen": { "price": "0.00001598", "mc": 1598692, "volume24h": 1046926.81, "chain": "base" },
+    "FELIX": { "price": "0.00002356", "mc": 2286157, "volume24h": 591584.47, "chain": "base" },
+    "JUNO": { "price": "0.00001039", "mc": 1039417, "volume24h": 414282.15, "chain": "base" },
+    "KellyClaude": { "price": null, "mc": null, "volume24h": null, "chain": "base", "note": "no pair found" },
+    "owockibot": { "price": "0.000003669", "mc": 366988, "volume24h": 108805.08, "chain": "base" },
+    "MARVIN": { "price": "0.000002671", "mc": 2671.26, "volume24h": 161.3, "chain": "solana" }
+  }
+}
