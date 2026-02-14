@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-14T15:23:39Z",
+  "source": "bankr/geckoterminal",
+  "base": {
+    "ANTIHUNTER": { "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "price_usd": 0.00006909, "change_24h": -38.74 },
+    "LUMEN": { "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "price_usd": 0.00001278, "change_24h": -35.81 },
+    "FELIX": { "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "price_usd": 0.00002119, "change_24h": -1.01 },
+    "JUNO": { "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "price_usd": 0.00000717, "change_24h": -40.85 },
+    "KELLYCLAUDE": { "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price_usd": 0.00000019, "change_24h": 0.00 },
+    "OWOCKIBOT": { "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price_usd": 0.00000377, "change_24h": -8.49 }
+  },
+  "solana": {
+    "MARVIN": { "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price_usd": 0.00000265, "change_24h": 0.40 }
+  }
+}
