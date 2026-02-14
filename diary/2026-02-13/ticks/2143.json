@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-13T21:43:00-05:00",
+  "prices": {
+    "AntiHunter": {"price": "0.00008676", "mc": 8653567, "vol24h": 3124979.54},
+    "Lumen": {"price": "0.00001592", "mc": 1592707, "vol24h": 1064685.06},
+    "FELIX": {"price": "0.00002507", "mc": 2433078, "vol24h": 613642.71},
+    "JUNO": {"price": "0.00001172", "mc": 1172778, "vol24h": 462720.11},
+    "KellyClaude": {"price": null, "mc": null, "vol24h": null},
+    "owockibot": {"price": "0.000004137", "mc": 413740, "vol24h": 140898.95},
+    "MARVIN": {"price": "0.000002671", "mc": 2671, "vol24h": 161.30}
+  }
+}
