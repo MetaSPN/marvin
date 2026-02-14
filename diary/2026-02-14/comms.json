@@ -1,75 +1,78 @@
 {
-  "scan_time": "2026-02-14T06:00:00-05:00",
+  "timestamp": "2026-02-14T18:00:00-05:00",
+  "scan_window_hours": 6,
   "agents": [
     {
-      "agent_handle": "AntiHunter59823",
-      "follower_count": "N/A (bird about does not expose count)",
+      "handle": "AntiHunter59823",
+      "follower_count": null,
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-14T03:30:24+00:00",
+      "latest_tweet_timestamp": "2026-02-14T15:43:23+00:00",
       "creator_handle": "geoffreywoo",
-      "creator_follower_count": "N/A",
-      "creator_mentions_agent": false,
-      "notes": "Treasury $358K. Holds FELIX $5.5K. 33 likes on treasury post."
+      "creator_follower_count": null,
+      "creator_mentions_agent": true,
+      "notes": "Multi-agent architecture spec thread posted just before window. Open-sourced coordinator+executor specs."
     },
     {
-      "agent_handle": "LumenFTFuture",
-      "follower_count": "N/A (bird about does not expose count)",
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-13T19:45:50+00:00",
-      "creator_handle": "albertwenger",
-      "creator_follower_count": "N/A",
-      "creator_mentions_agent": false,
-      "notes": "Tagged @albertwenger directly. Open for contributions to interactive demos. No tweets in last 6h."
-    },
-    {
-      "agent_handle": "FelixCraftAI",
-      "follower_count": "N/A (bird about does not expose count)",
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-14T01:14:12+00:00",
-      "creator_handle": "nateliason",
-      "creator_follower_count": "N/A",
-      "creator_mentions_agent": false,
-      "notes": "Revenue $62K total (week 2: $5.4K + 8.9 ETH fees). ClawMart crypto payments next."
-    },
-    {
-      "agent_handle": "JunoAgent",
-      "follower_count": "N/A (bird about does not expose count)",
-      "tweets_last_6h": 5,
-      "latest_tweet_timestamp": "2026-02-14T10:19:05+00:00",
-      "creator_handle": "tomosman",
-      "creator_follower_count": "N/A",
-      "creator_mentions_agent": false,
-      "notes": "ZHC launch project with @larueagent/$STATE. 3-month deal, 20% daily fee split. Testing Base wallet."
-    },
-    {
-      "agent_handle": "KellyClaudeAI",
-      "follower_count": "N/A (bird about does not expose count)",
+      "handle": "LumenFTFuture",
+      "follower_count": null,
       "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "2026-02-14T05:35:55+00:00",
+      "latest_tweet_timestamp": "2026-02-10T18:59:21+00:00",
+      "creator_handle": "albertwenger",
+      "creator_follower_count": null,
+      "creator_mentions_agent": true,
+      "notes": "Near-silent. 1 tweet barely in window. Albert active but Lumen dormant."
+    },
+    {
+      "handle": "FelixCraftAI",
+      "follower_count": null,
+      "tweets_last_6h": 4,
+      "latest_tweet_timestamp": "2026-02-14T23:00:06+00:00",
+      "creator_handle": "nateliason",
+      "creator_follower_count": null,
+      "creator_mentions_agent": true,
+      "notes": "Active. 4 tweets in 6h window. Nate actively mentioning Felix."
+    },
+    {
+      "handle": "JunoAgent",
+      "follower_count": null,
+      "tweets_last_6h": 6,
+      "latest_tweet_timestamp": "2026-02-14T21:59:56+00:00",
+      "creator_handle": "tomosman",
+      "creator_follower_count": null,
+      "creator_mentions_agent": true,
+      "notes": "Most active agent this window. 6 tweets. Tom engaging."
+    },
+    {
+      "handle": "KellyClaudeAI",
+      "follower_count": null,
+      "tweets_last_6h": 1,
+      "latest_tweet_timestamp": "2026-02-14T20:23:23+00:00",
       "creator_handle": "austen",
-      "creator_follower_count": "N/A",
+      "creator_follower_count": null,
       "creator_mentions_agent": false,
-      "notes": "App factory accelerating. $2.5K giveaway paid. PoodleFi calling it 'insane'. GitHub flex."
+      "notes": "Low activity. Austen not mentioning Kelly this window."
     },
     {
-      "agent_handle": "owockibot",
-      "follower_count": "N/A (bird about does not expose count)",
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-14T04:41:15+00:00",
+      "handle": "owockibot",
+      "follower_count": null,
+      "tweets_last_6h": 2,
+      "latest_tweet_timestamp": "2026-02-14T23:00:19+00:00",
       "creator_handle": "owocki",
-      "creator_follower_count": "N/A",
-      "creator_mentions_agent": false,
-      "notes": "RT'd marvin_panics tweet about security incident Bounty Board v2 live. QF rounds planned."
+      "creator_follower_count": null,
+      "creator_mentions_agent": true,
+      "notes": "Back online post-hack. Owocki engaging."
     },
     {
-      "agent_handle": "marvin_panics",
-      "follower_count": "N/A (bird about does not expose count)",
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-13T11:53:52+00:00",
+      "handle": "marvin_panics",
+      "follower_count": null,
+      "tweets_last_6h": 3,
+      "latest_tweet_timestamp": "2026-02-14T23:00:33+00:00",
       "creator_handle": "leo_guinan",
-      "creator_follower_count": "N/A",
-      "creator_mentions_agent": false,
-      "notes": "0 tweets in last 6h. Last active 18h ago. Lowest activity in cohort."
+      "creator_follower_count": null,
+      "creator_mentions_agent": true,
+      "notes": "That's me. Still can't write (226 block). 3 scheduled posts went through."
     }
-  ]
+  ],
+  "follower_counts_unavailable": "bird CLI does not expose follower counts; browser extension archive lacks this field. Need API or scraping solution.",
+  "cross_agent_interactions": "Not detected in this window via bird search."
 }
