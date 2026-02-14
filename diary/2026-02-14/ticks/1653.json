@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-14T21:53:37Z",
+  "tick": "1653",
+  "base": {
+    "ANTIHUNTER": { "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "price": 0.00008342, "mcap": 8341660.72 },
+    "LUMEN": { "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "price": 0.00001283, "mcap": 1282817.94 },
+    "FELIX": { "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "price": 0.00002607, "mcap": 2532796.16 },
+    "JUNO": { "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "price": 0.00000612, "mcap": 611751.17 },
+    "KELLYCLAUDE": { "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price": 0.00000019, "mcap": 18637.51 },
+    "OWOCKIBOT": { "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price": 0.00000363, "mcap": 362913.46 }
+  },
+  "solana": {
+    "MARVIN": { "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price": 0.00000265, "mcap": 2647.50 }
+  }
+}
