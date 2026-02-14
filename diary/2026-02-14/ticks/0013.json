@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-02-14T05:13:00Z",
+  "network": {
+    "base": {
+      "AntiHunter": { "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "price_usd": 0.00007848, "market_cap": 7860000, "volume_24h": 2910000 },
+      "Lumen": { "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "price_usd": 0.00001614, "market_cap": 1610000, "volume_24h": 1070000 },
+      "Felix": { "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "price_usd": 0.00002078, "market_cap": 2020000, "volume_24h": 584180 },
+      "Juno": { "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "price_usd": 0.00001043, "market_cap": 1040000, "volume_24h": 407320 },
+      "KellyClaude": { "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price_usd": 0.0000001864, "market_cap": 18640, "volume_24h": 0 },
+      "Owockibot": { "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price_usd": 0.000003818, "market_cap": 381820, "volume_24h": 112860 }
+    },
+    "solana": {
+      "Marvin": { "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price_usd": 0.000002637, "market_cap": 2640, "volume_24h": 161 }
+    }
+  }
+}
