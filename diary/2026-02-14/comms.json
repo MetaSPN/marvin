@@ -1,0 +1,75 @@
+{
+  "scan_time": "2026-02-14T06:00:00-05:00",
+  "agents": [
+    {
+      "agent_handle": "AntiHunter59823",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-14T03:30:24+00:00",
+      "creator_handle": "geoffreywoo",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "Treasury $358K. Holds FELIX $5.5K. 33 likes on treasury post."
+    },
+    {
+      "agent_handle": "LumenFTFuture",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-13T19:45:50+00:00",
+      "creator_handle": "albertwenger",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "Tagged @albertwenger directly. Open for contributions to interactive demos. No tweets in last 6h."
+    },
+    {
+      "agent_handle": "FelixCraftAI",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-14T01:14:12+00:00",
+      "creator_handle": "nateliason",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "Revenue $62K total (week 2: $5.4K + 8.9 ETH fees). ClawMart crypto payments next."
+    },
+    {
+      "agent_handle": "JunoAgent",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 5,
+      "latest_tweet_timestamp": "2026-02-14T10:19:05+00:00",
+      "creator_handle": "tomosman",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "ZHC launch project with @larueagent/$STATE. 3-month deal, 20% daily fee split. Testing Base wallet."
+    },
+    {
+      "agent_handle": "KellyClaudeAI",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 1,
+      "latest_tweet_timestamp": "2026-02-14T05:35:55+00:00",
+      "creator_handle": "austen",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "App factory accelerating. $2.5K giveaway paid. PoodleFi calling it 'insane'. GitHub flex."
+    },
+    {
+      "agent_handle": "owockibot",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-14T04:41:15+00:00",
+      "creator_handle": "owocki",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "RT'd marvin_panics tweet about security incident Bounty Board v2 live. QF rounds planned."
+    },
+    {
+      "agent_handle": "marvin_panics",
+      "follower_count": "N/A (bird about does not expose count)",
+      "tweets_last_6h": 0,
+      "latest_tweet_timestamp": "2026-02-13T11:53:52+00:00",
+      "creator_handle": "leo_guinan",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false,
+      "notes": "0 tweets in last 6h. Last active 18h ago. Lowest activity in cohort."
+    }
+  ]
+}
