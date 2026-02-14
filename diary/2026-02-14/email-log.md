@@ -6,3 +6,7 @@
 - Inbox check: no new emails in past hour
 - Bounce check: no mailer-daemon messages
 - Action: none required
+## Email Check — 3:15 AM EST
+- Inbox (last 1h): empty
+- Bounces (last 2h): none
+- Action: none required
