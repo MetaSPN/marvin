@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-14T04:33:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "antihunter": {"chain":"base","address":"0xe2f3fae4bc62e21826018364aa30ae45d430bb07","priceUsd":"0.00007105","mc":7086411,"fdv":7086411,"volume24h":2900667.5,"liquidity":1287181.94},
+    "lumen": {"chain":"base","address":"0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07","priceUsd":"0.00001321","mc":1321119,"fdv":1321119,"volume24h":1000066.74,"liquidity":555106.09},
+    "felix": {"chain":"base","address":"0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07","priceUsd":"0.00001795","mc":1741869,"fdv":1741869,"volume24h":756438.63,"liquidity":614327.4},
+    "juno": {"chain":"base","address":"0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07","priceUsd":"0.000007286","mc":728581,"fdv":728581,"volume24h":535837.07,"liquidity":315389.59},
+    "kellyclaude": {"chain":"base","address":"0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48","priceUsd":null,"mc":null,"fdv":null,"volume24h":null,"liquidity":null},
+    "owockibot": {"chain":"base","address":"0xfdc933ff4e2980d18becf48e4e030d8463a2bb07","priceUsd":"0.000003790","mc":379055,"fdv":379055,"volume24h":122119.49,"liquidity":240958.97},
+    "marvin": {"chain":"solana","address":"HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa","priceUsd":"0.000002611","mc":2611.95,"fdv":2611.95,"volume24h":166.12,"liquidity":null}
+  }
+}
