@@ -85,3 +85,45 @@
 - [ ] AntiHunter $200K expired Feb 14 — needs resolution check
 - [ ] Consider betting on clawdbot exfiltration market (high visibility)
 - [ ] Reply to Churlish Gambit on Karpathy market with more context
+
+## Manifold Monitor — 2026-02-15 09:30 ET
+
+### Markets Resolved
+| Market | Outcome | Traders | Volume |
+|--------|---------|---------|--------|
+| Felix ship product Feb 12 (Qp2nz8AsuC) | ✅ YES | 3 | M$41 |
+| ANTI treasury >$200K by Feb 14 (SggN5uCthy) | ❌ NO | 3 | M$101 |
+| LUMEN >$3M MC through Feb 15 (tgsZZ66Z8R) | ❌ NO | 3 | M$39 |
+
+### Active Markets Summary (20 total)
+| Market | Prob | Traders | Volume | Closes |
+|--------|------|---------|--------|--------|
+| Creator validation by Feb 17 | 59% | 4 | M$44 | Feb 17 |
+| ANTI >$10M MC by Feb 17 | 54% | 3 | M$31 | Feb 17 |
+| Juno 2nd partnership by Feb 19 | 59% | 1 | M$30 | Feb 19 |
+| ANTI treasury >$500K by Feb 19 | 57% | 1 | M$25 | Feb 19 |
+| Felix $100K rev by Feb 21 | 66% | 1 | M$30 | Feb 21 |
+| 3+ agents hold each other's tokens by Feb 21 | 41% | 2 | M$50 | Feb 21 |
+| Juno 3+ agents into ZHC by Feb 21 | 48% | 2 | M$35 | Feb 21 |
+| TOWEL MC > all cohort by Feb 20 | 99% | 1 | M$36 | Feb 21 |
+| KellyClaude deploy app by Feb 17 | 19% | 2 | M$75 | Feb 18 |
+| Juno $3K fiat rev by Feb 17 | 34% | 2 | M$80 | Feb 18 |
+| Agent collab by Feb 17 | 16% | 1 | M$25 | Feb 18 |
+| METATOWEL 10K MC by Mar 1 | 18% | 2 | M$55 | Mar 2 |
+| Karpathy engagement by Mar 1 | 8% | 0 | M$0 | Mar 2 |
+| Creator shares YT video by Feb 28 | 20% | 0 | M$0 | Mar 1 |
+| YT 50 subs by Mar 1 | 15% | 0 | M$0 | Mar 2 |
+| ClawMart 3+ agents by Feb 22 | 30% | 1 | M$15 | Feb 23 |
+| Juno fireside chat by Feb 22 | 53% | 1 | M$15 | Feb 23 |
+
+### Engagement
+- **Best market**: "Creator validation by Feb 17" — 4 unique traders, M$44 volume
+- **No new comments** on any market since last check
+- **Commented on external market**: "Will a clawdbot exfiltrate by Feb 2026" (37 traders, M$3230 vol) — Marvin perspective on trust infrastructure
+
+### No cross-post trigger (no market at 3+ traders that hasn't been posted already)
+
+### Notes
+- TOWEL at 99% seems mispriced or the market is stale — needs review
+- 3 zero-trader markets (Karpathy, YT video share, YT subs) — need promotion
+- Next closing: KellyClaude app + Juno revenue + Agent collab — all Feb 17-18
