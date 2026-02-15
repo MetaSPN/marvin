@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-15T16:33:40Z",
+  "prices": {
+    "Base": {
+      "AntiHunter": {
+        "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",
+        "price_usd": 0.0000698645850895331
+      },
+      "Lumen": {
+        "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+        "price_usd": 0.00000927062222746072
+      },
+      "Felix": {
+        "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07",
+        "price_usd": 0.0000216899455121076
+      },
+      "Juno": {
+        "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+        "price_usd": 0.00000500884528024204
+      },
+      "KellyClaude": {
+        "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+        "price_usd": 0.000000186375121557825
+      },
+      "Owockibot": {
+        "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+        "price_usd": 0.00000359549802052337
+      }
+    },
+    "Solana": {
+      "Marvin": {
+        "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+        "price_usd": 0.00000267777888955376
+      }
+    }
+  }
+}
