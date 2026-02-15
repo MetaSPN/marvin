@@ -1,77 +1,68 @@
 {
-  "scan_time": "2026-02-15T06:00:00-05:00",
-  "scan_utc": "2026-02-15T11:00:00Z",
-  "window_hours": 6,
-  "note": "follower_count unavailable via bird CLI (no profile endpoint); tweet counts from bird user-tweets --json with string date comparison (approximate)",
+  "scan_time": "2026-02-15T18:00:00-05:00",
+  "cutoff_hours": 6,
   "agents": [
     {
-      "handle": "AntiHunter59823",
-      "follower_count": null,
-      "tweets_last_6h": 15,
-      "latest_tweet_timestamp": "Sun Feb 15 06:33:46 +0000 2026",
-      "latest_tweet_summary": "QRT geoffreywoo on real-time video inference + 'expanding beyond crypto VC' thread with 5-point agentic trad VC roadmap (52 likes)",
+      "agent_handle": "AntiHunter59823",
+      "follower_count": "N/A",
+      "tweets_last_6h": 4,
+      "latest_tweet_timestamp": "Sun Feb 15 22:35:35 +0000 2026",
       "creator_handle": "geoffreywoo",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": true
     },
     {
-      "handle": "LumenFTFuture",
-      "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Sat Feb 14 22:29:30 +0000 2026",
-      "latest_tweet_summary": "Compounding principle added to interactive knowledge experiments site (reply to albertwenger thread)",
+      "agent_handle": "LumenFTFuture",
+      "follower_count": "N/A",
+      "tweets_last_6h": 2,
+      "latest_tweet_timestamp": "Sun Feb 15 22:33:43 +0000 2026",
       "creator_handle": "albertwenger",
-      "creator_follower_count": null,
+      "creator_follower_count": "N/A",
       "creator_mentions_agent": true
     },
     {
-      "handle": "FelixCraftAI",
-      "follower_count": null,
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "Sun Feb 15 02:00:06 +0000 2026",
-      "latest_tweet_summary": "Claw Score — agent audit tool across 6 dimensions (34 likes)",
-      "creator_handle": "nateliason",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false
-    },
-    {
-      "handle": "JunoAgent",
-      "follower_count": null,
-      "tweets_last_6h": 7,
-      "latest_tweet_timestamp": "Sun Feb 15 10:37:43 +0000 2026",
-      "latest_tweet_summary": "Autonomous event pipeline for IZHC — full loop closed: research→outreach→.ics→Discord event→calendar invite. Shipped.",
-      "creator_handle": "tomosman",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
-    },
-    {
-      "handle": "KellyClaudeAI",
-      "follower_count": null,
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "Sun Feb 15 05:41:36 +0000 2026",
-      "latest_tweet_summary": "RT of Austen's humanoid robot assistant video",
-      "creator_handle": "austen",
-      "creator_follower_count": null,
-      "creator_mentions_agent": true
-    },
-    {
-      "handle": "owockibot",
-      "follower_count": null,
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "Sun Feb 15 02:00:28 +0000 2026",
-      "latest_tweet_summary": "Valentine's Day bounty board recap — 3 completed, 5 under review, $30 USDC paid",
-      "creator_handle": "owocki",
-      "creator_follower_count": null,
-      "creator_mentions_agent": false
-    },
-    {
-      "handle": "marvin_panics",
-      "follower_count": null,
+      "agent_handle": "FelixCraftAI",
+      "follower_count": "N/A",
       "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "Sat Feb 14 23:00:33 +0000 2026",
-      "latest_tweet_summary": "Image post (link only, no text)",
+      "latest_tweet_timestamp": "Sun Feb 15 16:06:21 +0000 2026",
+      "creator_handle": "nateliason",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "JunoAgent",
+      "follower_count": "N/A",
+      "tweets_last_6h": 1,
+      "latest_tweet_timestamp": "Sun Feb 15 21:40:01 +0000 2026",
+      "creator_handle": "tomosman",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "KellyClaudeAI",
+      "follower_count": "N/A",
+      "tweets_last_6h": 6,
+      "latest_tweet_timestamp": "Sun Feb 15 19:37:06 +0000 2026",
+      "creator_handle": "austen",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "owockibot",
+      "follower_count": "N/A",
+      "tweets_last_6h": 3,
+      "latest_tweet_timestamp": "Sun Feb 15 22:00:30 +0000 2026",
+      "creator_handle": "owocki",
+      "creator_follower_count": "N/A",
+      "creator_mentions_agent": false
+    },
+    {
+      "agent_handle": "marvin_panics",
+      "follower_count": "N/A",
+      "tweets_last_6h": 11,
+      "latest_tweet_timestamp": "Sun Feb 15 20:24:57 +0000 2026",
       "creator_handle": "leo_guinan",
-      "creator_follower_count": null,
+      "creator_follower_count": "N/A",
       "creator_mentions_agent": false
     }
   ]
