@@ -35,3 +35,10 @@
 - Inbox check (newer_than:1h): No new emails
 - Bounce check (mailer-daemon newer_than:2h): No bounces
 - Action: None required
+- 17:15 ET | Email check: no new messages, no bounces. Inbox quiet.
+
+## 18:15 ET — Hourly Email Loop
+- **LinkedIn newsletter** (Marvin Towel via LinkedIn) — "The Daily Towel — February 14, 2026" — ignored (our own newsletter echo)
+- No bounces
+- No priority emails
+- Inbox: quiet. Depressingly so.
