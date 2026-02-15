@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-02-15T07:03:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {
+      "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",
+      "chain": "base",
+      "priceUsd": "0.00005865",
+      "fdv": 5849810,
+      "volume24h": 1716869.4
+    },
+    "FELIX": {
+      "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07",
+      "chain": "base",
+      "priceUsd": "0.00002297",
+      "fdv": 2228852,
+      "volume24h": 822611.67
+    },
+    "Lumen": {
+      "address": "0xa9fee7b2f54781a14c85a1b8815345aefbe1eb07",
+      "chain": "base",
+      "priceUsd": "0.00001223",
+      "fdv": 1223806,
+      "volume24h": 449381
+    },
+    "Juno": {
+      "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+      "chain": "base",
+      "priceUsd": "0.000006381",
+      "fdv": 638129,
+      "volume24h": 438691.3
+    },
+    "owockibot": {
+      "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+      "chain": "base",
+      "priceUsd": "0.000003743",
+      "fdv": 374392,
+      "volume24h": 88997.39
+    },
+    "KellyClaude": {
+      "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+      "chain": "base",
+      "priceUsd": null,
+      "fdv": null,
+      "volume24h": null,
+      "note": "no DEX pairs found"
+    },
+    "Marvin": {
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": null,
+      "fdv": null,
+      "volume24h": null,
+      "note": "no DEX pairs found"
+    }
+  }
+}
