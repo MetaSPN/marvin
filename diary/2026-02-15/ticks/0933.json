@@ -1,0 +1,38 @@
+{
+  "ts": "2026-02-15T14:33:00Z",
+  "prices": {
+    "ANTIHUNTER": {
+      "priceUsd": "0.00006438",
+      "mc": 6421617,
+      "liq": 1219973.93,
+      "vol24h": 1790962.91
+    },
+    "LUMEN": {
+      "priceUsd": "0.000009017",
+      "mc": 901785,
+      "liq": 453514.05,
+      "vol24h": 491937.93
+    },
+    "FELIX": {
+      "priceUsd": "0.00002170",
+      "mc": 2105288,
+      "liq": 686914.21,
+      "vol24h": 696778.89
+    },
+    "JUNO": {
+      "priceUsd": "0.000004820",
+      "mc": 481999,
+      "liq": 257584.94,
+      "vol24h": 404265.30
+    },
+    "OWOCKIBOT": {
+      "priceUsd": "0.000003568",
+      "mc": 356843,
+      "liq": 230942.44,
+      "vol24h": 102697.85
+    },
+    "KELLYCLAUDE": null,
+    "MARVIN": null
+  },
+  "notes": "KELLYCLAUDE and MARVIN have no active DEX pools on DexScreener"
+}
