@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-15T13:53:00Z",
+  "source": "dexscreener",
+  "base": {
+    "AntiHunter": {"price": "0.00007080", "mc": 7062063, "vol24h": 1783708.86, "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07"},
+    "FELIX": {"price": "0.00002116", "mc": 2053619, "vol24h": 771604.90, "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07"},
+    "Lumen": {"price": "0.000009126", "mc": 912653, "vol24h": 484230.59, "address": "0xa9fee7b2f54781a14c85a1b8815345aefbe1eb07"},
+    "JUNO": {"price": "0.000004529", "mc": 452934, "vol24h": 407302.37, "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07"},
+    "owockibot": {"price": "0.000002960", "mc": 296070, "vol24h": 92709.83, "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07"},
+    "KellyClaude": {"price": null, "mc": null, "vol24h": null, "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48"}
+  },
+  "solana": {
+    "Marvin": {"price": null, "mc": null, "vol24h": null, "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+  }
+}
