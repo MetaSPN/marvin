@@ -25,3 +25,17 @@
 **Trend:** Flat. Farcaster up from 2 (Day 2) to 4. Everything else at zero.
 **Thresholds:** None crossed. All below alert levels.
 **Note:** Manifold markets have zero traders despite being live for days. GitHub repo has zero stars. Distribution remains the critical bottleneck — building > distributing, as usual.
+
+## Distribution Check — 2026-02-14 20:00 ET
+
+| Metric | Value |
+|---|---|
+| Farcaster followers | 4 |
+| GitHub stars (MetaSPN/marvin) | 0 |
+| Manifold unique traders | 17 (across 7 markets) |
+| Substack | No visible subscriber count; 2 issues, launched 8mo ago |
+
+**Manifold breakdown:** OWOCKIBOT=5, rest=2 each
+**Trend:** Flat (first structured check — baseline established)
+**Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders)
+
