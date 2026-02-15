@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-02-15T04:14:27.474Z",
+  "tokens": {
+    "AntiHunter": {
+      "price": "0.00006284",
+      "mc": 6267368,
+      "fdv": 6267368,
+      "liq": 1209673.41,
+      "vol24h": 2256933.05,
+      "chain": "base"
+    },
+    "Lumen": {
+      "price": "0.00001280",
+      "mc": 1280047,
+      "fdv": 1280047,
+      "liq": 550890.98,
+      "vol24h": 724803,
+      "chain": "base"
+    },
+    "Felix": {
+      "price": "0.00003052",
+      "mc": 2961316,
+      "fdv": 2961316,
+      "liq": 853896.13,
+      "vol24h": 1161212.74,
+      "chain": "base"
+    },
+    "Juno": {
+      "price": "0.000004684",
+      "mc": 468401,
+      "fdv": 468401,
+      "liq": 256579.29,
+      "vol24h": 609553.54,
+      "chain": "base"
+    },
+    "KellyClaude": {
+      "error": "no pair found",
+      "chain": "base"
+    },
+    "Owockibot": {
+      "price": "0.000004048",
+      "mc": 404809,
+      "fdv": 404809,
+      "liq": 250059.62,
+      "vol24h": 126019.85,
+      "chain": "base"
+    },
+    "Marvin": {
+      "price": "0.000002611",
+      "mc": 2611.95,
+      "fdv": 2611.95,
+      "vol24h": 83.23,
+      "chain": "solana"
+    }
+  }
+}
