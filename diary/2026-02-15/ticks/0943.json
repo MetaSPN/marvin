@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-15T09:43:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {"address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "chain": "base", "priceUsd": "0.00006467", "mc": 6450529, "volume24h": 1785437.8, "priceChange24h": -11.97},
+    "FELIX": {"address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "chain": "base", "priceUsd": "0.00002187", "mc": 2122648, "volume24h": 667691.87, "priceChange24h": -5.22},
+    "Lumen": {"address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base", "priceUsd": "0.000008925", "mc": 892589, "volume24h": 492760.22, "priceChange24h": -39.11},
+    "JUNO": {"address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base", "priceUsd": "0.000004839", "mc": 483905, "volume24h": 401953.1, "priceChange24h": -37.28},
+    "owockibot": {"address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base", "priceUsd": "0.000003699", "mc": 369959, "volume24h": 104153.81, "priceChange24h": -2.44},
+    "KellyClaude": {"address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "chain": "base", "priceUsd": null, "mc": null, "volume24h": null, "priceChange24h": null, "note": "no active pairs on dexscreener"},
+    "MARVIN": {"address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "priceUsd": null, "mc": null, "volume24h": null, "priceChange24h": null, "note": "no active pairs on dexscreener"}
+  }
+}
