@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-02-14T21:13:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "ANTIHUNTER": {
+      "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07",
+      "chain": "base",
+      "priceUsd": "0.00006479",
+      "mcap": 6461890,
+      "volume24h": 2363686.89,
+      "liquidity": 1227704.27
+    },
+    "FELIX": {
+      "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07",
+      "chain": "base",
+      "priceUsd": "0.00002397",
+      "mcap": 2325478,
+      "volume24h": 1151384.04,
+      "liquidity": 734215.20
+    },
+    "LUMEN": {
+      "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+      "chain": "base",
+      "priceUsd": "0.00001108",
+      "mcap": 1108241,
+      "volume24h": 734614.67,
+      "liquidity": 507981.25
+    },
+    "JUNO": {
+      "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07",
+      "chain": "base",
+      "priceUsd": "0.000006031",
+      "mcap": 603121,
+      "volume24h": 598349.42,
+      "liquidity": 289037.75
+    },
+    "OWOCKIBOT": {
+      "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07",
+      "chain": "base",
+      "priceUsd": "0.000003774",
+      "mcap": 377459,
+      "volume24h": 134709.51,
+      "liquidity": 240139.23
+    },
+    "KELLYCLAUDE": {
+      "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+      "chain": "base",
+      "priceUsd": null,
+      "mcap": null,
+      "volume24h": null,
+      "liquidity": null,
+      "note": "no DEX pair found"
+    },
+    "MARVIN": {
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": "0.000002611",
+      "mcap": 2611.95,
+      "volume24h": 83.23,
+      "liquidity": null
+    }
+  }
+}
