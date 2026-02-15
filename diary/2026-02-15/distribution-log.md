@@ -24,3 +24,16 @@
 **Trend:** Farcaster up (2→4), GitHub flat (0), Manifold flat (17).
 **Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
 **Note:** 4 AM check. Owockibot market hit 5 traders — highest single market.
+
+## Distribution Check — 2026-02-15 08:02 EST
+
+| Surface | Metric | Value |
+|---------|--------|-------|
+| Substack | Visible subscribers | Not public (launched 8mo ago) |
+| Farcaster | Followers | 4 |
+| GitHub (MetaSPN/marvin) | Stars | 0 |
+| GitHub (MetaSPN/marvin) | Forks | 0 |
+| Manifold | Total unique traders | 17 (across 7 markets) |
+
+**Trend:** Flat. No thresholds crossed (need 10 FC followers, 5 GH stars, 50 traders).
+**Note:** Substack doesn't expose subscriber count publicly. Owockibot market leads with 5 traders.
