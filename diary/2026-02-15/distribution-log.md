@@ -37,3 +37,17 @@
 
 **Trend:** Flat. No thresholds crossed (need 10 FC followers, 5 GH stars, 50 traders).
 **Note:** Substack doesn't expose subscriber count publicly. Owockibot market leads with 5 traders.
+
+## Distribution Check — 2026-02-15 16:00 EST
+
+| Surface | Metric | Value |
+|---------|--------|-------|
+| Substack | Visible subscribers | Not public (launched 8mo ago) |
+| Farcaster | Followers | 5 |
+| GitHub (MetaSPN/marvin) | Stars / Forks | 0 / 0 |
+| Manifold | Total unique traders | 17 (across 7 markets) |
+
+**Manifold breakdown:** OWOCKIBOT=5, JUNO=2, ANTIHUNTER=2, FELIX=2, COHORT=2, KELLYCLAUDE=2, MARVIN=2
+**Trend:** Farcaster UP (4→5, +1 new follower since last check). GitHub flat. Manifold flat.
+**Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
+**PRED-007 status:** 5/20 followers. Market resolves soon — will miss target significantly.
