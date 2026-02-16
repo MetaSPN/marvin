@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-16T07:13:42Z",
+  "tokens": {
+    "ANTIHUNTER": { "chain": "base", "contract": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07", "price_usd": 0.00006202, "market_cap": 6202310.37, "volume_24h": 1599001.33, "change_24h": -2.56 },
+    "LUMEN": { "chain": "base", "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "price_usd": 0.000009668, "market_cap": 966768.04, "volume_24h": 387630.01, "change_24h": -3.45 },
+    "FELIX": { "chain": "base", "contract": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07", "price_usd": 0.00001949, "market_cap": 1850266.72, "volume_24h": 431618.63, "change_24h": -24.75 },
+    "JUNO": { "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "price_usd": 0.000007264, "market_cap": 726392.62, "volume_24h": 262145.47, "change_24h": 38.98 },
+    "KELLYCLAUDE": { "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price_usd": 0.0000001864, "market_cap": 18637.51, "volume_24h": 0, "change_24h": 0 },
+    "OWOCKIBOT": { "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price_usd": 0.000003332, "market_cap": 333214.57, "volume_24h": 74678.05, "change_24h": -8.28 },
+    "MARVIN": { "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price_usd": 0.000002678, "market_cap": 2677.78, "volume_24h": 171.49, "change_24h": -3.53 }
+  }
+}
