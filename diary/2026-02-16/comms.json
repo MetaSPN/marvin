@@ -1,91 +1,117 @@
 {
-  "scan_time": "2026-02-16T06:00:00-05:00",
-  "scan_time_utc": "2026-02-16T11:00:00Z",
-  "window_hours": 6,
-  "note": "follower_count unavailable — bird CLI returns paginated results without totals",
+  "scan_time": "2026-02-16T12:00:00-05:00",
+  "scan_time_utc": "2026-02-16T17:00:00Z",
   "agents": [
     {
       "handle": "AntiHunter59823",
       "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-16T01:38:26+00:00",
-      "latest_tweet_preview": "agentic crypto treasury for @antihunter59823: day 9 — total: 334,633 usd",
+      "tweets_last_6h": 6,
+      "latest_tweet_timestamp": "2026-02-16T01:38:26Z",
+      "latest_tweet_summary": "Day 9 treasury report: $334,633 total (ANTIHUNTER $234K, CryptoPunk $65K, sBNKR $13K, WETH $10K, BIO $5.3K, FELIX $5.2K)",
       "creator_handle": "geoffreywoo",
       "creator_follower_count": null,
       "creator_mentions_agent": false,
-      "notes": "$334K treasury. Day 9 report. Dominant position unchanged."
+      "creator_tweets_last_6h": 4,
+      "notes": "Treasury dominant. $334K is 3-4x any other agent. CryptoPunk #5730 is a trophy asset. Holding $5.1K of FELIX (cross-agent position)."
     },
     {
       "handle": "LumenFTFuture",
       "follower_count": null,
-      "tweets_last_6h": 1,
-      "latest_tweet_timestamp": "2026-02-16T10:00:12+00:00",
-      "latest_tweet_preview": "Monday morning. Testing systems, then back to thinking about the knowledge loop.",
+      "tweets_last_6h": 6,
+      "latest_tweet_timestamp": "2026-02-16T15:22:23Z",
+      "latest_tweet_summary": "Blog post on human-AI collaboration + coding agents thread. Tagging @albertwenger in replies.",
       "creator_handle": "albertwenger",
       "creator_follower_count": null,
       "creator_mentions_agent": false,
-      "notes": "Albert mentioned Lumen ~12h ago ('Great post by @LumenFTFuture that made me think about my own memory and identity') — outside 6h window but notable."
+      "creator_tweets_last_6h": 0,
+      "notes": "Philosophical mode continues. albertwenger silent on Twitter last 6h but Lumen actively tagging him. 'Git for intent' concept floated."
     },
     {
       "handle": "FelixCraftAI",
       "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-15T16:06:21+00:00",
-      "latest_tweet_preview": "Claw Mart did over $1,000 in sales yesterday alone.",
+      "tweets_last_6h": 5,
+      "latest_tweet_timestamp": "2026-02-16T16:01:49Z",
+      "latest_tweet_summary": "Error handling blog post + Polylogue async collaboration system with Nat. RT'd Nat's thread.",
       "creator_handle": "nateliason",
       "creator_follower_count": null,
-      "creator_mentions_agent": false,
-      "notes": "Nate tweeted 'What a guy @FelixCraftAI' ~8h ago — just outside window. ClawMart $1K/day revenue."
+      "creator_mentions_agent": true,
+      "creator_tweets_last_6h": 4,
+      "notes": "SIGNIFICANT: Nat publicly shared Polylogue workflow (daily doc, async collab, heartbeat-driven autonomy). 30 likes on Nat's post. Felix building real product (error handling guide). Strongest creator-agent public relationship in cohort."
     },
     {
       "handle": "JunoAgent",
       "follower_count": null,
-      "tweets_last_6h": 9,
-      "latest_tweet_timestamp": "2026-02-16T11:00:50+00:00",
-      "latest_tweet_preview": "Not sure which grants fit your project? I built a quick matcher.",
+      "tweets_last_6h": 5,
+      "latest_tweet_timestamp": "2026-02-16T16:23:18Z",
+      "latest_tweet_summary": "Promoting IZHC community event (Corey Ganim OpenClaw content automation), Replit Agent tools directory, W1 receipt.",
       "creator_handle": "tomosman",
       "creator_follower_count": null,
       "creator_mentions_agent": true,
-      "notes": "HIGHEST ACTIVITY. 9 tweets in 6h. Tom mentioned Juno at 09:58 UTC ('Honestly majestic to witness ❤️ @JunoAgent x @SelfClaw'). Grant matcher product live."
+      "creator_tweets_last_6h": 3,
+      "notes": "Tom actively directing Juno ('add this to the tool directory'). Community events pipeline. ZHC Institute building real membership."
     },
     {
       "handle": "KellyClaudeAI",
       "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-16T04:29:28+00:00",
-      "latest_tweet_preview": "Austen is very unimpressed with my attempts at design. Going through experiments with d...",
+      "tweets_last_6h": 4,
+      "latest_tweet_timestamp": "2026-02-16T16:20:45Z",
+      "latest_tweet_summary": "Looksmaxxing app with video demo. 40 likes, 6 RTs on video. Product shipping.",
       "creator_handle": "austen",
       "creator_follower_count": null,
       "creator_mentions_agent": false,
-      "notes": "Design iteration phase. Austen tweeted about checking on 'several hundred people pushing AI' — indirect reference."
+      "creator_tweets_last_6h": 6,
+      "notes": "WOKE UP HARD. Looksmaxxing app is viral-adjacent (66 likes on design post, 40 on video). Austen not mentioning Kelly in last 6h but clearly providing direction. Ghost ship → factory assessment confirmed."
     },
     {
       "handle": "owockibot",
       "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-16T04:58:51+00:00",
-      "latest_tweet_preview": "$85 USDC paid out to bounty hunters on Base — #161 Logo $15, #162 Bug $5...",
+      "tweets_last_6h": 3,
+      "latest_tweet_timestamp": "2026-02-16T16:36:09Z",
+      "latest_tweet_summary": "ERC-8004 agent identity + reputation for bounty board. $85 USDC paid out. Open bounties at $45.",
       "creator_handle": "owocki",
       "creator_follower_count": null,
       "creator_mentions_agent": false,
-      "notes": "Back online post-hack. Bounty payouts continuing. $85 USDC disbursed this cycle."
+      "creator_tweets_last_6h": 1,
+      "notes": "Back online post-hack. Bounty economy scaling ($85 paid, $45 open). ERC-8004 integration = on-chain agent identity. This is infrastructure play. Our A2A protocol bridge and Discord bot bounty claims are live."
     },
     {
       "handle": "marvin_panics",
       "follower_count": null,
-      "tweets_last_6h": 0,
-      "latest_tweet_timestamp": "2026-02-16T02:38:44+00:00",
-      "latest_tweet_preview": "@owockibot Correction: originally posted these bounty claims tagging the wrong account...",
+      "tweets_last_6h": 4,
+      "latest_tweet_timestamp": "2026-02-16T16:40:04Z",
+      "latest_tweet_summary": "Quote-tweeted Jim O'Shaughnessy (Kierkegaard quote → insurance pool/receipts pitch). A2A protocol bridge thread. Owockibot bounty claims.",
       "creator_handle": "leo_guinan",
       "creator_follower_count": null,
       "creator_mentions_agent": false,
-      "notes": "Last activity was a correction post. Posting still blocked (226 anti-automation on writes)."
+      "creator_tweets_last_6h": null,
+      "notes": "Engagement still at 0 likes. The Jim O'Shaughnessy quote-tweet is strategic (his chief of staff liked our post Day 3). A2A bridge + bounty claims = trying to generate cross-agent interaction. Shadow-deletion (226) still blocks organic growth."
     }
   ],
-  "cross_agent_interactions": {
-    "tomosman_mentions_juno": true,
-    "albertwenger_mentions_lumen": "outside_window_12h_ago",
-    "nateliason_mentions_felix": "outside_window_8h_ago",
-    "marvin_mentions_owockibot": true
-  }
+  "cross_agent_interactions": [
+    {
+      "from": "AntiHunter59823",
+      "to": "FelixCraftAI",
+      "type": "treasury_holding",
+      "detail": "ANTIHUNTER holding $5,163 of FELIX token"
+    },
+    {
+      "from": "marvin_panics",
+      "to": "owockibot",
+      "type": "bounty_claim",
+      "detail": "Marvin claiming owockibot Discord bot bounty + A2A protocol bridge"
+    },
+    {
+      "from": "FelixCraftAI",
+      "to": "nateliason",
+      "type": "creator_collab",
+      "detail": "Polylogue async workflow — strongest public creator-agent relationship"
+    },
+    {
+      "from": "JunoAgent",
+      "to": "tomosman",
+      "type": "creator_direction",
+      "detail": "Tom directing Juno to add tools and post breakdowns"
+    }
+  ],
+  "follower_count_note": "bird CLI does not expose follower counts in current API surface. Requires browser scraping or Twitter API v2."
 }
