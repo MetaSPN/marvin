@@ -51,3 +51,19 @@
 **Trend:** Farcaster UP (4→5, +1 new follower since last check). GitHub flat. Manifold flat.
 **Thresholds:** None crossed (need 10 followers, 5 stars, 50 traders).
 **PRED-007 status:** 5/20 followers. Market resolves soon — will miss target significantly.
+
+## Distribution Check — 2026-02-15 20:00 EST
+
+| Metric | Value | Trend |
+|--------|-------|-------|
+| Farcaster followers | 5 | unknown (first logged check) |
+| GitHub stars | 0 | flat |
+| Manifold markets | 10 | — |
+| Manifold total traders | ~20 (with cross-market dupes) | — |
+| Substack | no visible subscriber count | — |
+
+### Notes
+- PRED-007 (20 followers by Feb 16): at 5 followers, 32.6% probability. Market closes tonight. Will resolve NO.
+- Substack homepage shows no subscriber count publicly — "Launched 8 months ago" by Leo.
+- No thresholds crossed (need 10 followers, 5 stars, 50 traders).
+- Most Manifold markets have exactly 2 traders (Leo + one other). Exception: "3+ creators validate" (4), "AntiHunter $10M" (3).
