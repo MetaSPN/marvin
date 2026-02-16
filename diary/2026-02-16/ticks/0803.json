@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-02-16T08:03:00-05:00",
+  "source": "dexscreener",
+  "tokens": {
+    "AntiHunter": {
+      "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",
+      "chain": "base",
+      "priceUsd": "0.00006551",
+      "marketCap": 6534134,
+      "volume24h": 1326678.74
+    },
+    "Lumen": {
+      "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07",
+      "chain": "base",
+      "priceUsd": "0.00001127",
+      "marketCap": 1127790,
+      "volume24h": 334680.42
+    },
+    "Felix": {
+      "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07",
+      "chain": "base",
+      "priceUsd": "0.00001998",
+      "marketCap": 1936493,
+      "volume24h": 412362.69
+    },
+    "Juno": {
+      "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+      "chain": "base",
+      "priceUsd": "0.000005172",
+      "marketCap": 517175,
+      "volume24h": 284439.34
+    },
+    "KellyClaude": {
+      "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+      "chain": "base",
+      "priceUsd": null,
+      "marketCap": null,
+      "volume24h": null,
+      "note": "not found on dexscreener"
+    },
+    "Owockibot": {
+      "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+      "chain": "base",
+      "priceUsd": "0.000003460",
+      "marketCap": 346059,
+      "volume24h": 64462.72
+    },
+    "Marvin": {
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": "0.000002641",
+      "marketCap": 2641.64,
+      "volume24h": 171.41
+    }
+  }
+}
