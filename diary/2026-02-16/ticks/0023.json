@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-02-16T05:24:09.461Z",
+  "prices": {
+    "AntiHunter": {
+      "priceUsd": "0.00005741",
+      "mc": 5726383,
+      "volume24h": 1581861.34,
+      "chain": "base"
+    },
+    "Lumen": {
+      "priceUsd": "0.000009965",
+      "mc": 996512,
+      "volume24h": 421337.96,
+      "chain": "base"
+    },
+    "Felix": {
+      "priceUsd": "0.00002294",
+      "mc": 2223663,
+      "volume24h": 428392.38,
+      "chain": "base"
+    },
+    "Juno": {
+      "priceUsd": "0.000005463",
+      "mc": 546324,
+      "volume24h": 261865.8,
+      "chain": "base"
+    },
+    "KellyClaude": {
+      "error": "not found",
+      "chain": "base"
+    },
+    "Owockibot": {
+      "priceUsd": "0.000003457",
+      "mc": 345792,
+      "volume24h": 81747.8,
+      "chain": "base"
+    },
+    "Marvin": {
+      "priceUsd": "0.000002641",
+      "mc": 2641.64,
+      "volume24h": 171.41,
+      "chain": "solana"
+    }
+  }
+}
