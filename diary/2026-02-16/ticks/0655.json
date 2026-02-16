@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-16T06:55:00-05:00",
+  "source": "dexscreener",
+  "base": [
+    {"symbol": "AntiHunter", "address": "0xe2f3FaE4bc62E21826018364aa30ae45D430bb07", "priceUsd": "0.00006667", "mc": 6650096, "volume24h": 1455382.43},
+    {"symbol": "FELIX", "address": "0xf30Bf00edd0C22db54C9274B90D2A4C21FC09b07", "priceUsd": "0.00002026", "mc": 1963461, "volume24h": 413392.92},
+    {"symbol": "Lumen", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "priceUsd": "0.00001030", "mc": 1030140, "volume24h": 330928.51},
+    {"symbol": "JUNO", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "priceUsd": "0.000005942", "mc": 594174, "volume24h": 268965.27},
+    {"symbol": "owockibot", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "priceUsd": "0.000003249", "mc": 324921, "volume24h": 63108.54},
+    {"symbol": "KellyClaude", "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "priceUsd": null, "mc": null, "volume24h": null}
+  ],
+  "solana": [
+    {"symbol": "MARVIN", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002641", "mc": 2641.64, "volume24h": 171.41}
+  ]
+}
