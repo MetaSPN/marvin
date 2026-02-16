@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-16T09:43:00Z",
+  "prices": {
+    "ANTIHUNTER": {"priceUsd": "0.00006333", "marketCap": 6316484},
+    "LUMEN": {"priceUsd": "0.000009745", "marketCap": 974595},
+    "FELIX": {"priceUsd": "0.00002120", "marketCap": 2054472},
+    "JUNO": {"priceUsd": "0.000005819", "marketCap": 581870},
+    "KELLYCLAUDE": {"priceUsd": null, "marketCap": null, "note": "no DEX pairs found"},
+    "OWOCKIBOT": {"priceUsd": "0.000003247", "marketCap": 324759},
+    "MARVIN": {"priceUsd": "0.000002641", "marketCap": 2641.64}
+  }
+}
