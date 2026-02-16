@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-02-16T14:27:50.918Z",
+  "tokens": {
+    "ANTIHUNTER": {
+      "price_usd": "0.00006170",
+      "market_cap": 6153943,
+      "volume_24h": 1170756.04,
+      "price_change_24h": -3.3,
+      "chain": "base"
+    },
+    "LUMEN": {
+      "price_usd": "0.00001035",
+      "market_cap": 1035381,
+      "volume_24h": 227321.96,
+      "price_change_24h": 15.99,
+      "chain": "base"
+    },
+    "FELIX": {
+      "price_usd": "0.00001962",
+      "market_cap": 1901701,
+      "volume_24h": 393961.94,
+      "price_change_24h": -6.09,
+      "chain": "base"
+    },
+    "JUNO": {
+      "price_usd": "0.000005475",
+      "market_cap": 547526,
+      "volume_24h": 262864.71,
+      "price_change_24h": 20.18,
+      "chain": "base"
+    },
+    "KELLYCLAUDE": {
+      "error": "not found",
+      "chain": "base"
+    },
+    "OWOCKIBOT": {
+      "price_usd": "0.000002941",
+      "market_cap": 294116,
+      "volume_24h": 52152.8,
+      "price_change_24h": -15.56,
+      "chain": "base"
+    },
+    "MARVIN": {
+      "price_usd": "0.000002641",
+      "market_cap": 2641.64,
+      "volume_24h": 171.41,
+      "price_change_24h": -6.03,
+      "chain": "solana"
+    }
+  }
+}
