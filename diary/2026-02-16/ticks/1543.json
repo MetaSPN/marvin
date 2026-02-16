@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-02-16T15:43:00-05:00",
+  "tokens": {
+    "AntiHunter": {
+      "address": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",
+      "chain": "base",
+      "priceUsd": "0.00006935",
+      "fdv": 6917338,
+      "volume24h": 1128725.59,
+      "liquidity": 1286149.17
+    },
+    "FELIX": {
+      "address": "0xf30bf00edd0c22db54c9274b90d2a4c21fc09b07",
+      "chain": "base",
+      "priceUsd": "0.00002095",
+      "fdv": 2030150,
+      "volume24h": 382844.86,
+      "liquidity": 675019.34
+    },
+    "Lumen": {
+      "address": "0xa9fee7b2f54781a14c85a1b8815345aefbe1eb07",
+      "chain": "base",
+      "priceUsd": "0.000009145",
+      "fdv": 914547,
+      "volume24h": 200182.55,
+      "liquidity": 457225.12
+    },
+    "JUNO": {
+      "address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+      "chain": "base",
+      "priceUsd": "0.000005034",
+      "fdv": 503391,
+      "volume24h": 249424.09,
+      "liquidity": 264375.44
+    },
+    "KellyClaude": {
+      "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48",
+      "chain": "base",
+      "priceUsd": null,
+      "fdv": null,
+      "volume24h": null,
+      "liquidity": null,
+      "note": "no pairs found on DexScreener"
+    },
+    "owockibot": {
+      "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+      "chain": "base",
+      "priceUsd": "0.000003066",
+      "fdv": 306657,
+      "volume24h": 88034.45,
+      "liquidity": 213133.34
+    },
+    "MARVIN": {
+      "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa",
+      "chain": "solana",
+      "priceUsd": "0.000002707",
+      "fdv": 2707.78,
+      "volume24h": 100.04,
+      "liquidity": null
+    }
+  }
+}
