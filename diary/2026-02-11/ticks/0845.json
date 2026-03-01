@@ -8,6 +8,6 @@
     "Juno": { "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "priceUsd": "0.00001040", "mc": 1039994, "vol24h": 591428.82 },
     "KellyClaude": { "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "priceUsd": "0.0000001994", "mc": 19945, "vol24h": 12.5 },
     "Owockibot": { "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "priceUsd": "0.000004103", "mc": 410355, "vol24h": 132825.92 },
-    "Marvin": { "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002381", "mc": 2381.15, "vol24h": 13635.97 }
+    "Marvin": { "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "priceUsd": "0.000002381", "mc": 2381.15, "vol24h": 13635.97 }
   }
 }

@@ -8,6 +8,6 @@
     "JUNO": { "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "usd": 0.00001358 },
     "KELLYCLAUDE": { "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "usd": 0.0000002067 },
     "OWOCKIBOT": { "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "usd": 0.000004467 },
-    "MARVIN": { "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "usd": 0.000002534 }
+    "MARVIN": { "chain": "solana", "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "usd": 0.000002534 }
   }
 }

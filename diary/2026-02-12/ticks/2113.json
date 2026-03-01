@@ -8,6 +8,6 @@
     "Juno": {"address": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "chain": "base", "priceUsd": "0.00001037", "fdv": 1037183, "liquidity": 360417.34},
     "KellyClaude": {"address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "chain": "base", "priceUsd": "0.0000001884", "fdv": 18843, "liquidity": 18843.18},
     "Owockibot": {"address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "chain": "base", "priceUsd": "0.000003956", "fdv": 395644, "liquidity": 237195.07},
-    "Marvin": {"address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "priceUsd": "0.000002496", "fdv": 2496.67, "liquidity": null}
+    "Marvin": {"address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana", "priceUsd": "0.000002496", "fdv": 2496.67, "liquidity": null}
   }
 }

@@ -8,6 +8,6 @@
     "KELLYCLAUDE": {"price": "0.0000001913", "mc": 19132, "vol24h": 15.62, "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48"},
     "LUMEN": {"price": "0.00002781", "mc": 2781860, "vol24h": 682807.01, "chain": "base", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"},
     "OWOCKIBOT": {"price": "0.000004234", "mc": 423430, "vol24h": 114287.34, "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07"},
-    "MARVIN": {"price": "0.000002496", "mc": 2496.72, "vol24h": 13534.58, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+    "MARVIN": {"price": "0.000002496", "mc": 2496.72, "vol24h": 13534.58, "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump"}
   }
 }

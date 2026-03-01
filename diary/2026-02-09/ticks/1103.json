@@ -7,6 +7,6 @@
     "Juno": { "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07", "price_usd": 0.0000113174, "market_cap_usd": 1131402.99 },
     "KellyClaude": { "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price_usd": 0.0000002067, "market_cap_usd": 20667.10 },
     "Owockibot": { "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price_usd": 0.0000041201, "market_cap_usd": 420932.50 },
-    "Marvin": { "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price_usd": 0.0000025351, "market_cap_usd": 2535.05 }
+    "Marvin": { "chain": "solana", "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "price_usd": 0.0000025351, "market_cap_usd": 2535.05 }
   }
 }

@@ -8,6 +8,6 @@
     "KELLYCLAUDE": { "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base", "priceUsd": "0.0000001939", "mc": 19390, "volume24h": 12.49 },
     "Lumen": { "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base", "priceUsd": "0.00003078", "mc": 3078995, "volume24h": 599649.72 },
     "owockibot": { "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base", "priceUsd": "0.000006478", "mc": 647796, "volume24h": 269218.68 },
-    "MARVIN": { "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "priceUsd": "0.000002722", "mc": 2722.55, "volume24h": 387.33 }
+    "MARVIN": { "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana", "priceUsd": "0.000002722", "mc": 2722.55, "volume24h": 387.33 }
   }
 }

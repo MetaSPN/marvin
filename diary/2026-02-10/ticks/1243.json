@@ -7,6 +7,6 @@
     {"token": "JUNO", "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "price": "0.00001458", "mc": 1457961, "vol24h": 772337.54},
     {"token": "owockibot", "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "price": "0.000004372", "mc": 437279, "vol24h": 123282.66},
     {"token": "KELLYCLAUDE", "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "price": "0.0000002006", "mc": 20068, "vol24h": 3.5},
-    {"token": "MARVIN", "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price": "0.000002689", "mc": 2689.8, "vol24h": 179.81}
+    {"token": "MARVIN", "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "price": "0.000002689", "mc": 2689.8, "vol24h": 179.81}
   ]
 }

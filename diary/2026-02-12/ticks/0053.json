@@ -8,6 +8,6 @@
     {"name": "Juno Agent", "symbol": "JUNO", "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "priceUsd": "0.00001060", "mc": 1060123, "liquidity": 363583.95, "volume24h": 392321.74},
     {"name": "owockibot", "symbol": "owockibot", "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "priceUsd": "0.000006931", "mc": 693179, "liquidity": 321145.35, "volume24h": 225128.98},
     {"name": "Kelly Claude", "symbol": "KELLYCLAUDE", "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "priceUsd": "0.0000001939", "mc": 19390, "liquidity": 19390.27, "volume24h": 12.49},
-    {"name": "Marvin", "symbol": "MARVIN", "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002681", "mc": 2681.3, "liquidity": null, "volume24h": 386.69}
+    {"name": "Marvin", "symbol": "MARVIN", "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "priceUsd": "0.000002681", "mc": 2681.3, "liquidity": null, "volume24h": 386.69}
   ]
 }

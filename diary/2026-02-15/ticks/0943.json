@@ -8,6 +8,6 @@
     "JUNO": {"address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base", "priceUsd": "0.000004839", "mc": 483905, "volume24h": 401953.1, "priceChange24h": -37.28},
     "owockibot": {"address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base", "priceUsd": "0.000003699", "mc": 369959, "volume24h": 104153.81, "priceChange24h": -2.44},
     "KellyClaude": {"address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "chain": "base", "priceUsd": null, "mc": null, "volume24h": null, "priceChange24h": null, "note": "no active pairs on dexscreener"},
-    "MARVIN": {"address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "priceUsd": null, "mc": null, "volume24h": null, "priceChange24h": null, "note": "no active pairs on dexscreener"}
+    "MARVIN": {"address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana", "priceUsd": null, "mc": null, "volume24h": null, "priceChange24h": null, "note": "no active pairs on dexscreener"}
   }
 }

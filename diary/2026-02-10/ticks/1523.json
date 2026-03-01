@@ -8,6 +8,6 @@
     "Lumen": {"price_usd": "0.00002890", "market_cap": 2890742, "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base"},
     "KELLYCLAUDE": {"price_usd": "0.0000001991", "market_cap": 19910, "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "chain": "base"},
     "owockibot": {"price_usd": "0.000004593", "market_cap": 459333, "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "chain": "base"},
-    "MARVIN": {"price_usd": "0.000005622", "market_cap": 5622.45, "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana"}
+    "MARVIN": {"price_usd": "0.000005622", "market_cap": 5622.45, "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana"}
   }
 }

@@ -10,6 +10,6 @@
     "OWOCKIBOT": { "address": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07", "price_usd": 0.00000377, "change_24h": -8.49 }
   },
   "solana": {
-    "MARVIN": { "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price_usd": 0.00000265, "change_24h": 0.40 }
+    "MARVIN": { "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "price_usd": 0.00000265, "change_24h": 0.40 }
   }
 }

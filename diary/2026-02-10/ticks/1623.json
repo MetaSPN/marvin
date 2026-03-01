@@ -8,6 +8,6 @@
     "KELLYCLAUDE": { "price": "0.0000001991", "mc": 19910, "contract": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base" },
     "Lumen": { "price": "0.00002741", "mc": 2741395, "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base" },
     "Owockibot": { "price": null, "mc": null, "contract": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07", "chain": "base", "note": "no pairs found" },
-    "MARVIN": { "price": "0.000005620", "mc": 5620.98, "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana" }
+    "MARVIN": { "price": "0.000005620", "mc": 5620.98, "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana" }
   }
 }

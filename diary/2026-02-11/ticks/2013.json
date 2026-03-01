@@ -8,6 +8,6 @@
     "JUNO": { "price": "0.00001069", "mc": 1069536, "contract": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base" },
     "owockibot": { "price": "0.000003166", "mc": 316669, "contract": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base" },
     "KELLYCLAUDE": { "price": "0.0000001913", "mc": 19132, "contract": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base" },
-    "MARVIN": { "price": "0.000002681", "mc": 2681.3, "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana" }
+    "MARVIN": { "price": "0.000002681", "mc": 2681.3, "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana" }
   }
 }

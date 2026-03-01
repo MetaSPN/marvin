@@ -8,6 +8,6 @@
     "JUNO": {"address":"0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07","chain":"base","priceUsd":"0.00001409","marketCap":1409542,"volume24h":774283.8,"liquidity":423521.56},
     "owockibot": {"address":"0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07","chain":"base","priceUsd":"0.000004826","marketCap":482656,"volume24h":131240.13,"liquidity":263481.06},
     "KELLYCLAUDE": {"address":"0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48","chain":"base","priceUsd":"0.0000001994","marketCap":19945,"volume24h":12.5,"liquidity":19944.83},
-    "MARVIN": {"address":"HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa","chain":"solana","priceUsd":"0.000005509","marketCap":5509.2,"volume24h":12198.55,"liquidity":null}
+    "MARVIN": {"address":"91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump","chain":"solana","priceUsd":"0.000005509","marketCap":5509.2,"volume24h":12198.55,"liquidity":null}
   }
 }

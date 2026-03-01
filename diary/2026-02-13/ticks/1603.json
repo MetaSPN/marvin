@@ -8,6 +8,6 @@
     "JUNO": { "price": "0.00001083", "mc": 1083644, "chain": "base", "contract": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07" },
     "owockibot": { "price": "0.000004324", "mc": 432459, "chain": "base", "contract": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07" },
     "KellyClaude": { "price": null, "mc": null, "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "note": "no liquidity pairs found" },
-    "MARVIN": { "price": "0.000002671", "mc": 2671, "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+    "MARVIN": { "price": "0.000002671", "mc": 2671, "chain": "solana", "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump" }
   }
 }

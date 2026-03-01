@@ -33,7 +33,7 @@ Every 10 minutes, Marvin checks market prices for the Season 1 cohort and logs d
 | Osman → Juno | $JUNO | Base | 0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07 |
 | Allred → Kelly Claude | $KELLYCLAUDE | Base | 0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48 |
 | Owocki → Owockibot | $OWOCKIBOT | Base | 0xfdc933ff4e2980d18becf48e4e030d8463a2bb07 |
-| Guinan → Marvin | $MARVIN | Solana | HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa |
+| Guinan → Marvin | $MARVIN | Solana | 91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump |
 
 ## Fund
 

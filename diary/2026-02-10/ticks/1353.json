@@ -8,6 +8,6 @@
     "LUMEN": {"price": "0.00002775", "marketCap": 2775450, "volume24h": 1366292.61, "change24h": -3.11, "chain": "base", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07"},
     "KELLYCLAUDE": {"price": "0.0000002006", "marketCap": 20068, "volume24h": 3.5, "change24h": null, "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48"},
     "OWOCKIBOT": {"price": null, "marketCap": null, "volume24h": null, "change24h": null, "chain": "base", "address": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07", "note": "no liquidity pool found"},
-    "MARVIN": {"price": "0.000002689", "marketCap": 2689.8, "volume24h": 179.81, "change24h": 2.47, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+    "MARVIN": {"price": "0.000002689", "marketCap": 2689.8, "volume24h": 179.81, "change24h": 2.47, "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump"}
   }
 }

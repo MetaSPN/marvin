@@ -7,6 +7,6 @@
     "JUNO": { "price_usd": 0.00001051, "market_cap": "1.05M", "change_24h": "-0.83%", "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07" },
     "KELLYCLAUDE": { "price_usd": 0.0000001864, "market_cap": "18.6K", "change_24h": "0.00%", "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48" },
     "OWOCKIBOT": { "price_usd": 0.00000429, "market_cap": "427K", "change_24h": "-3.74%", "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07" },
-    "MARVIN": { "price_usd": 0.000002637, "market_cap": "2.6K", "change_24h": "+7.00%", "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+    "MARVIN": { "price_usd": 0.000002637, "market_cap": "2.6K", "change_24h": "+7.00%", "chain": "solana", "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump" }
   }
 }

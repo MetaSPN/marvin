@@ -10,6 +10,6 @@
     {"symbol": "KellyClaude", "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "priceUsd": null, "mc": null, "volume24h": null, "liquidity": null, "note": "no active pairs"}
   ],
   "solana": [
-    {"symbol": "MARVIN", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002641", "mc": 2641.64, "volume24h": 171.41, "liquidity": null}
+    {"symbol": "MARVIN", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "priceUsd": "0.000002641", "mc": 2641.64, "volume24h": 171.41, "liquidity": null}
   ]
 }

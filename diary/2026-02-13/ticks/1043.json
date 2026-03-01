@@ -8,6 +8,6 @@
     "Lumen": { "price": "0.00001777", "mc": 1777681, "vol24h": 973693.82, "chain": "base", "ca": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07" },
     "KellyClaude": { "price": "0.0000001884", "mc": 18843, "vol24h": 9.79, "chain": "base", "ca": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48" },
     "owockibot": { "price": "0.000004608", "mc": 460894, "vol24h": 189695.97, "chain": "base", "ca": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07" },
-    "MARVIN": { "price": "0.000002671", "mc": 2671.26, "vol24h": 219.64, "chain": "solana", "ca": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+    "MARVIN": { "price": "0.000002671", "mc": 2671.26, "vol24h": 219.64, "chain": "solana", "ca": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump" }
   }
 }

@@ -7,6 +7,6 @@
     "KellyClaude": {"address": "0x50D2280441372486BeecdD328c1854743EBaCb07", "chain": "base", "priceUsd": "0.0001053", "marketCap": 10499151, "volume24h": 2015485.85, "liquidity": 2433212.96},
     "JUNO": {"address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "chain": "base", "priceUsd": "0.000005473", "marketCap": 547346, "volume24h": 597468.60, "liquidity": 276897.49},
     "owockibot": {"address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base", "priceUsd": "0.000003419", "marketCap": 341968, "volume24h": 115872.54, "liquidity": 229229.43},
-    "MARVIN": {"address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana", "priceUsd": "0.000002611", "marketCap": 2611.95, "volume24h": 83.23, "liquidity": null}
+    "MARVIN": {"address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana", "priceUsd": "0.000002611", "marketCap": 2611.95, "volume24h": 83.23, "liquidity": null}
   }
 }

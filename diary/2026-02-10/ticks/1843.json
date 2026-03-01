@@ -8,6 +8,6 @@
     "JUNO": {"price": "0.00001184", "mc": 1184238, "vol24h": 750889.59, "change24h": 2.39, "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07"},
     "KELLYCLAUDE": {"price": "0.0000001991", "mc": 19910, "vol24h": 5.52, "change24h": -0.79, "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48"},
     "OWOCKIBOT": null,
-    "MARVIN": {"price": "0.000005409", "mc": 5409.12, "vol24h": 12183.08, "change24h": 114.00, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa"}
+    "MARVIN": {"price": "0.000005409", "mc": 5409.12, "vol24h": 12183.08, "change24h": 114.00, "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump"}
   }
 }

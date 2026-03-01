@@ -8,6 +8,6 @@
     "JUNO": { "price": "0.000005139", "mc": 513870, "volume24h": 321465.29, "chain": "base", "contract": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07" },
     "owockibot": { "price": "0.000003359", "mc": 335987, "volume24h": 89235.19, "chain": "base", "contract": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07" },
     "KellyClaude": { "price": null, "mc": null, "volume24h": null, "chain": "base", "contract": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "note": "no active pairs on dexscreener" },
-    "MARVIN": { "price": "0.000002641", "mc": 2641.64, "volume24h": 171.41, "chain": "solana", "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+    "MARVIN": { "price": "0.000002641", "mc": 2641.64, "volume24h": 171.41, "chain": "solana", "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump" }
   }
 }

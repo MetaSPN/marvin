@@ -8,6 +8,6 @@
     "JUNO": { "price": "0.00001454", "mcap": 1454224, "vol24h": 783000.40, "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07" },
     "KELLYCLAUDE": { "price": "0.0000002006", "mcap": 20068, "vol24h": 3.50, "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48" },
     "OWOCKIBOT": { "price": null, "mcap": null, "vol24h": null, "chain": "base", "address": "0xfdc933ff4e6980d18becf48e4e030d8463a2bb07", "note": "no liquidity/pair found" },
-    "MARVIN": { "price": "0.000002689", "mcap": 2689.80, "vol24h": 179.81, "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa" }
+    "MARVIN": { "price": "0.000002689", "mcap": 2689.80, "vol24h": 179.81, "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump" }
   }
 }

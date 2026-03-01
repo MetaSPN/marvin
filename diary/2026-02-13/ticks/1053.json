@@ -8,6 +8,6 @@
     "KELLYCLAUDE": {"priceUsd": "0.0000001884", "fdv": 18843, "contract": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "chain": "base"},
     "Lumen": {"priceUsd": "0.00001829", "fdv": 1829495, "contract": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "chain": "base"},
     "owockibot": {"priceUsd": "0.000004582", "fdv": 458231, "contract": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "chain": "base"},
-    "MARVIN": {"priceUsd": "0.000002671", "fdv": 2671, "contract": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "chain": "solana"}
+    "MARVIN": {"priceUsd": "0.000002671", "fdv": 2671, "contract": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "chain": "solana"}
   }
 }

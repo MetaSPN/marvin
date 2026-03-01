@@ -8,6 +8,6 @@
     {"token": "Lumen", "chain": "base", "address": "0xa9FEE7b2F54781A14c85A1B8815345AefbE1EB07", "priceUsd": "0.00002409", "marketCap": 2409980, "volume24h": 868009.89},
     {"token": "KELLYCLAUDE", "chain": "base", "address": "0xf0eb2bf3B6be6f6E6eE363C53aBC434F0B7dAC48", "priceUsd": "0.0000001994", "marketCap": 19945, "volume24h": 12.5},
     {"token": "owockibot", "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "priceUsd": "0.000004537", "marketCap": 453749, "volume24h": 137156.95},
-    {"token": "MARVIN", "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "priceUsd": "0.000002381", "marketCap": 2381.15, "volume24h": 13635.97}
+    {"token": "MARVIN", "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "priceUsd": "0.000002381", "marketCap": 2381.15, "volume24h": 13635.97}
   ]
 }

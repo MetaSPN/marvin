@@ -8,6 +8,6 @@
     {"symbol": "JUNO", "chain": "base", "address": "0x4E6c9f48f73E54EE5F3AB7e2992B2d733D0d0b07", "price": "0.000006526", "mc": 652552, "volume24h": 594506.90, "change24h": -38.67},
     {"symbol": "owockibot", "chain": "base", "address": "0xfDC933Ff4e2980d18beCF48e4E030d8463A2Bb07", "price": "0.000003435", "mc": 343596, "volume24h": 120781.20, "change24h": -20.30},
     {"symbol": "KellyClaude", "chain": "base", "address": "0xf0eb2bf3b6be6f6e6ee363c53abc434f0b7dac48", "price": null, "mc": null, "volume24h": null, "change24h": null, "note": "no DEX pair found"},
-    {"symbol": "MARVIN", "chain": "solana", "address": "HM9k1EBbPuRGR4VP2CW6ADgsnbdkfYMW8y8gmkM3MhSa", "price": "0.000002611", "mc": 2611.95, "volume24h": 83.23, "change24h": null}
+    {"symbol": "MARVIN", "chain": "solana", "address": "91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump", "price": "0.000002611", "mc": 2611.95, "volume24h": 83.23, "change24h": null}
   ]
 }
